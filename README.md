@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-OF-PUBLIC-RESPONSE-ON-TWITTER-TO-COVID-19-VACCINATION-IN-INDONESIA-SVM-METHOD
+The purpose of this study is to analyze public sentiment on Twitter towards the implementation of vaccination with the Support Vector Machine method. Analysis sentiment was carried out in this study using the Support Vector Machine method. The dataset used is data obtained from Twitter and labeled using the Lexicon Based method.
