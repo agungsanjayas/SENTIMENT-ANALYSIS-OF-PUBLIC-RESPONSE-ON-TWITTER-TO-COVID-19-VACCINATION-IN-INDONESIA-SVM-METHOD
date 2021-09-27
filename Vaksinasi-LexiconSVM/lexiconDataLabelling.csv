@@ -1,0 +1,793 @@
+,tweets,label,sentiment
+0,"['tanjung', 'balai', 'laksana', 'vaksinasi']",1.0,0.0
+1,"['dukung', 'program', 'juta', 'vaksinasi', 'lumajang', 'gelar', 'vaksinasi', 'covid', 'massal']",1.0,1.0
+2,"['sebut', 'lonjak', 'covid', 'kendali']",1.0,1.0
+3,"['lampung', 'gelar', 'vaksinasi', 'covid', 'anggota', 'keluarga', 'rumah', 'sakit', 'jalan', 'pramuka', 'rajabasa', 'kota', 'bandar', 'lampung', 'lampung']",1.0,0.0
+4,"['bupati', 'kobar', 'apresiasi', 'usaha', 'laksana', 'vaksinasi', 'gotong', 'royong', 'karyawan']",1.0,1.0
+5,"['columbia', 'asia', 'indonesia', 'dukung', 'program', 'vaksinasi']",1.0,1.0
+6,"['kam', 'laksana', 'vaksinasi', 'warga', 'usia', 'makamhaji', 'tempat', 'balai', 'makamhaji', 'brigadir', 'ruri', 'setiawan', 'kartasura', 'koramil', 'kartasura', 'laksana', 'aman', 'giat', 'vaksinasi', 'warga', 'usia']",1.0,0.0
+7,"['kalbar', 'serius', 'vaksinasi', 'lansia']",1.0,0.0
+8,"['salah', 'banget', 'vaksinasi', 'uji', 'menangisss']",0.0,0.0
+9,"['silah', 'simak', 'jadwal', 'vaksinasi', 'tinggal', 'kebal', 'tubuh', 'faktor', 'utama', 'hadir', 'vaksin', 'usir', 'corona', 'silah', 'postingan', 'sebar', 'kabar']",1.0,1.0
+10,"['vaksinasi', 'masyarakat', 'domisili', 'warga', 'asli', 'dki', 'jakarta', 'laksana', 'vaksinasi', 'dki', 'bareng', 'syarat']",1.0,1.0
+11,"['reposted', 'mayor', 'kabar', 'gembira', 'sobat', 'sehat', 'mayor', 'vaksin', 'usia', 'provinsi', 'dki', 'jakarta', 'resmi', 'buka', 'selenggara', 'vaksinasi', 'covid', 'masyarakat', 'usia']",1.0,1.0
+12,"['cepat', 'vaksinasi', 'tempat', 'interaksi', 'stasiun', 'bus', 'airport', 'labuh']",1.0,1.0
+13,"['vaksinasi', 'massal', 'bogor', 'sukses', 'total', 'daftar', 'online', 'capai']",1.0,1.0
+14,"['beneran', 'kuliah', 'tatap', 'muka', 'syarat', 'ngambil', 'mk', 'ampu', 'vaksinasi']",1.0,1.0
+15,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat']",1.0,1.0
+16,"['sukun', 'sukses', 'vaksinasi', 'covid', 'lansia', 'masyarakat', 'lengkap', 'klik', 'taut']",1.0,1.0
+17,"['program', 'vaksinasi', 'gotong', 'royong', 'inisiasi', 'laku', 'usaha', 'kadin', 'tuju', 'cepat', 'beri', 'vaksin', 'kerja', 'ada', 'vaksin', 'program', 'sepenuh', 'biaya', 'usaha', 'beban', 'karyawan']",1.0,1.0
+18,"['upaya', 'wujud', 'herd', 'immunity', 'salah', 'wujud', 'program', 'vaksinasi', 'cepat', 'laksana', 'program', 'vaksinasi', 'cepat', 'kebal', 'komunal', 'bentuk']",1.0,1.0
+19,"['tingkat', 'positif', 'corona', 'tangan', 'strategi', 'hadap', 'pandemi', 'covid', 'salah', 'strategi', 'laksana', 'vaksinasi', 'juta', 'dosis', 'moga', 'program', 'sukses', 'pandemi']",1.0,0.0
+20,"['vaksinasi', 'massal', 'huni', 'apartemen', 'gading', 'mediterania']",1.0,0.0
+21,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi']",1.0,1.0
+22,"['covid', 'tinjau', 'vaksinasi', 'pabrik', 'sukuntex', 'pura']",0.0,1.0
+23,"['tambah', 'tinggi', 'positivity', 'rate', 'spesimen', 'positivity', 'rate', 'tingkat', 'turun', 'vaksinasi', 'tracing', 'swab', 'test', 'tingkat', 'dekat', 'standar', 'who']",0.0,1.0
+24,"['tinjau', 'laksana', 'vaksinasi', 'damping', 'tri', 'sehat', 'direktur', 'utama', 'kai']",1.0,1.0
+25,"['serta', 'sebab', 'tenda', 'vaksinasi', 'roboh']",0.0,1.0
+26,"['pemprov', 'kalbar', 'gencar', 'vaksinasi', 'covid', 'midji', 'ajak', 'masyarakat', 'daftar']",1.0,1.0
+27,"['harap', 'keras', 'cepat', 'program', 'vaksinasi', 'cepat', 'cepat', 'target', 'vaksinasi', 'bogor', 'agustus', 'capai', 'kebal', 'komunal']",1.0,1.0
+28,"['harap', 'keras', 'cepat', 'program', 'vaksinasi', 'vaksinasi', 'target', 'bogor', 'capai', 'kebal', 'komunal', 'agustus']",1.0,1.0
+29,"['lanjut', 'butuh', 'cepat', 'vaksinasi', 'rangka', 'capai', 'kebal', 'komunal', 'herd', 'immunity', 'harap', 'sebar', 'covid', 'hambat']",1.0,1.0
+30,"['serta', 'vaksinasi', 'permata', 'jonggol', 'serta', 'emc', 'sentul', 'serta', 'bina', 'husada', 'serta', 'cimandala', 'serta', 'citeureup', 'serta', 'karadenan']",1.0,1.0
+31,"['sempat', 'bincang', 'konferensi', 'video', 'wakil', 'pkm', 'ada', 'vaksinasi', 'permata', 'jonggol', 'emc', 'sentul', 'bina', 'husada', 'pkm', 'cimandala', 'pkm', 'citeureup', 'pkm', 'karadenan']",1.0,1.0
+32,"['sasar', 'vaksinasi', 'kalang', 'masyarakat', 'kaum', 'usia', 'lansia', 'didik', 'dagang', 'pasar', 'tokoh', 'agama', 'pegawai', 'layan', 'publik', 'difabel', 'laku', 'transportasi', 'masyarakat', 'rentan']",1.0,1.0
+33,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat', 'sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+34,"['khawatir', 'vaksinasi', 'az', 'sakit', 'asma', 'asma', 'ringan', 'jam', 'vaksin', 'az', 'ga', 'gejala', 'aman', 'gel', 'lengan', 'kiri', 'suntik', 'moga', 'aman']",1.0,0.0
+35,"['lauching', 'gerai', 'laksana', 'vaksinasi', 'covid']",1.0,1.0
+36,"['upaya', 'cipta', 'herd', 'imunity', 'sumbar', 'vaksinasi', 'gratis', 'masyarakat']",1.0,1.0
+37,"['cepat', 'vaksinasi', 'interaksi']",1.0,1.0
+38,"['besok', 'jadwal', 'vaksinasi', 'masyarakat', 'stasiun', 'bogor', 'makasih']",1.0,1.0
+39,"['vaksinasi', 'upaya', 'bendung', 'tular', 'virus', 'pandemi']",1.0,0.0
+40,"['tinjau', 'vaksinasi', 'stasiun', 'bogor']",1.0,1.0
+41,"['pemprov', 'dki', 'jakarta', 'resmi', 'gelar', 'vaksinasi', 'covid', 'masyarakat', 'syarat', 'usia', 'laksana', 'vaksinasi', 'prioritas', 'tenaga', 'sehat', 'kelompok', 'usia', 'layan', 'publik', 'syarat', 'daftar']",1.0,1.0
+42,"['yasin', 'damping', 'tinjau', 'vaksinasi', 'massal', 'stadion']",1.0,1.0
+43,"['strategi', 'tangan', 'covid', 'cepat', 'vaksinasi', 'ketat', 'ppkm', 'mikro', 'lengkap', 'klik', 'taut']",1.0,1.0
+44,"['pilih', 'cepat', 'vaksinasi', 'pilih']",1.0,0.0
+45,"['janji', 'vaksinasi', 'cepat', 'gagal', 'sebab', 'situasi', 'cekam', 'teror', 'covid', 'vaksin', 'dapat', 'jujur']",0.0,1.0
+46,"['tinjau', 'vaksinasi', 'harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+47,"['hati', 'vaksinasi', 'ngasuu', 'tunggang', 'kpentingan', 'rrc', 'genosida', 'selubung']",0.0,0.0
+48,"['dengar', 'cerita', 'form', 'utama', 'vaksinasi', 'sekolah']",1.0,1.0
+49,"['vaksinasi', 'covid', 'massal', 'laksana', 'lapang', 'ahmad', 'kirang', 'mamuju', 'sambut', 'antusiasme', 'warga']",1.0,1.0
+50,"['ragu', 'laku', 'vaksinasi', 'covid', 'tubuh', 'lindung', 'daftar', 'pilih', 'jadwal', 'vaksinasi', 'jaki']",1.0,0.0
+51,"['warga', 'raya', 'laku', 'vaksinasi']",1.0,1.0
+52,"['dokumentasi', 'laksana', 'vaksinasi', 'covid', 'massal', 'pegawai', 'retail', 'modern', 'hotel', 'grand', 'asrilia', 'giat', 'selenggara', 'aprindo']",1.0,1.0
+53,"['bentuk', 'dukung', 'program', 'cepat', 'beri', 'vaksin', 'lampung', 'gelar', 'vaksinasi', 'covid']",1.0,1.0
+54,"['denger', 'dave', 'duta', 'vaksinasi', 'salah', 'denger']",0.0,0.0
+55,"['vaksin', 'cek', 'rapid', 'antibodi', 'hasil', 'reaktif', 'vaksinasi', 'muncul', 'antibodi', 'lawan', 'virus', 'positif', 'swab', 'pcr', 'rapid', 'antigen', 'rapid', 'antibodi']",1.0,1.0
+56,"['daftar', 'vaksinasi', 'covid']",1.0,1.0
+57,"['tinggal', 'tahap', 'vaksinasi', 'usia', 'atas', 'kota', 'belah', 'buka', 'usia', 'atas']",0.0,0.0
+58,"['analisis', 'evaluasi', 'cenderung', 'masyakarat', 'jenuh', 'terap', 'bp', 'tito', 'prokes', 'senjata', 'utama', 'putus', 'rantai', 'sebar', 'covid', 'samping', 'upaya', 'vaksinasi', 'cipta', 'kebal', 'kelompok', 'herd', 'immunity']",1.0,0.0
+59,"['warga', 'seman', 'vaksinasi', 'covid', 'pabrik', 'rider']",1.0,0.0
+60,"['tinjau', 'vaksinasi', 'harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+61,"['warga', 'ktp', 'domisili', 'jakarta', 'usia', 'download', 'aplikasi', 'jaki', 'kunjung', 'website', 'ga', 'pusing', 'ga', 'bagi', 'nomer', 'antri']",1.0,0.0
+62,"['yak', 'jam', 'vaksinasi', 'gua', 'kelar', 'gejala', 'pasca', 'vaksinasi', 'kayak', 'lanjut', 'jam', 'pala', 'pening', 'perut', 'asa', 'mual', 'badan', 'keringet', 'dingin']",0.0,0.0
+63,"['parah', 'covid', 'dki', 'roket', 'lampau']",0.0,0.0
+64,"['vaksinasi', 'program', 'juta', 'vaksin', 'covid']",1.0,1.0
+65,"['tinjau', 'vaksinasi', 'pabrik', 'sukuntex', 'pura', 'terban']",1.0,0.0
+66,"['allah', 'ken', 'vaksinasi']",1.0,1.0
+67,"['vaksinasi', 'cegah', 'gejala', 'berat', 'cegah', 'papar', 'lonjak', 'hrusnya', 'bijak', 'fokus', 'antisipasi', 'batas', 'faskes', 'nakes']",1.0,1.0
+68,"['bayang', 'ketidakpastian', 'global', 'ekonomi', 'indonesia', 'potensi', 'pulih', 'resesi', 'salah', 'syarat', 'kendali', 'pandemi', 'covid', 'vaksinasi']",1.0,0.0
+69,"['bupati', 'hartopo', 'ganjar', 'pranowo', 'damping', 'jenderal', 'sigit', 'menkes', 'ri', 'budi', 'sadikin', 'ketua', 'covid', 'ri', 'kepala', 'bnpb', 'letjen', 'ganip', 'warsito', 'tinjau', 'vaksinasi', 'laksana', 'sukun', 'tex']",1.0,1.0
+70,"['jatah', 'vaksin', 'dinkes', 'pekanbaru', 'batas', 'vaksinasi', 'warga']",1.0,1.0
+71,"['agnez', 'sedia', 'klinik', 'vaksinasi', 'covid', 'gratis', 'masyarakat', 'muzdalifah', 'raya', 'tambah', 'usia', 'dekat']",1.0,1.0
+72,"['tel', 'uang', 'ratus', 'miliar', 'bingung', 'wacana', 'vaksinasi', 'udh', 'progres', 'hakikat', 'cocok', 'barbarianisme']",0.0,1.0
+73,"['harap', 'peran', 'aktif', 'masyarakat', 'sosialisasi', 'vaksinasi']",1.0,1.0
+74,"['somogede', 'koramil', 'pituruh', 'damping', 'vaksinasi', 'lansia']",1.0,1.0
+75,"['menteri', 'angkut', 'wee', 'siong', 'bantu', 'cepat', 'vaksinasi', 'kalang', 'kerja', 'sektor']",1.0,1.0
+76,"['vaksinasi', 'upaya', 'putus', 'sebar', 'covid', 'cipta', 'kebal', 'tubuh', 'lindung']",1.0,1.0
+77,"['sebel', 'anggep', 'vaksin', 'hewan', 'alesan', 'gak', 'vaksinasi', 'turut', 'suluh', 'vaksinasi', 'sus', 'daerah', 'pencil', 'desa']",0.0,0.0
+78,"['tuju', 'vaksinasi']",1.0,1.0
+79,"['tinjau', 'laksana', 'vaksinasi', 'sidak', 'inspeksi', 'dadak', 'laksana', 'ppkm', 'mikro', 'bae']",1.0,1.0
+80,"['klaster', 'vaksinasi']",0.0,1.0
+81,"['mahukan', 'serama', 'rakyat', 'kedah', 'utama', 'kawasan', 'sungai', 'tani', 'daftar', 'vaksinasi', 'covid']",1.0,1.0
+82,"['harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+83,"['yaya', 'paham', 'sedia', 'tetep', 'panik', 'lonjak', 'banget', 'god', 'sake', 'jalan', 'liat', 'kuli', 'gapake', 'yak', 'all', 'desperate', 'wajib', 'vaksinasi', 'ampun']",0.0,1.0
+84,"['harap', 'peran', 'aktif', 'masy', 'sosialisasi', 'program', 'vaksinasi', 'gala', 'olh', 'samping', 'stakeholder', 'kait', 'maksimal', 'ppkm', 'mikro', 'kurang', 'masyarakat', 'upaya', 'tekan', 'laju', 'tular', 'covid']",1.0,0.0
+85,"['wapres', 'tinjau', 'laksana', 'vaksinasi', 'pemkot', 'tangerang']",1.0,1.0
+86,"['timbul', 'kerumun', 'ombudsman', 'kepri', 'taknis', 'vaksinasi', 'kaji', 'ulang']",0.0,1.0
+87,"['jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+88,"['jawa', 'lapor', 'dokter', 'kerja', 'medis', 'tangkap', 'vaksinasi', 'sinovac', 'doctors', 'med', 'staff', 'get', 'despite']",0.0,1.0
+89,"['biddokkes', 'lampung', 'tubaba', 'dinkes', 'gelar', 'vaksinasi', 'massal']",1.0,1.0
+90,"['tekan', 'covid', 'cepat', 'vaksinasi']",1.0,1.0
+91,"['tau', 'info', 'daftar', 'vaksinasi', 'covid', 'makas']",1.0,0.0
+92,"['strategi', 'cepat', 'vaksinasi', 'nasional']",1.0,1.0
+93,"['vaksinasi', 'banyak', 'syarat', 'salah', 'ktp', 'vaksin', 'wni', '', 'jakarta', 'domisili', 'ktp', 'manado', 'pulang']",0.0,0.0
+94,"['dilurusin', 'dikit', 'acara', 'besut', 'ag', 'peduli', 'ybs', 'brand', 'ambasador', 'cz', 'info', 'lokasi', 'yh', 'emang', 'vaksinasi', 'massal', 'vaksin', 'covid', 'gerat']",1.0,0.0
+95,"['tinjau', 'vaksinasi', 'bogor', 'harap']",1.0,1.0
+96,"['sehat', 'sehat', 'badan', 'tumbang', 'jadwal', 'vaksinasi', 'padat', 'rayap', 'kerja', 'numpuk']",1.0,1.0
+97,"['kempen', 'daftar', 'vaksinasi', 'covid', 'anjur', 'pusat', 'khidmat', 'masyarakat', 'parlimen', 'sungai', 'tani', 'terus', 'jelajah', 'kampung', 'bukit', 'sera', 'batu', 'sungai', 'tani']",1.0,1.0
+98,"['mohon', 'keluar', 'lantar', 'sedia', 'alokasi', 'vaksin', 'dki', 'jakarta', 'simpan', 'antusiasme', 'masyarakat', 'vaksinasi', 'covid']",1.0,1.0
+99,"['informasi', 'laksana', 'vaksinasi', 'tahap', 'susul', 'surat', 'mohon', 'dki', 'jakarta', 'vaksinasi', 'tahap', 'sasar', 'masyarakat', 'rentan', 'kait', 'aspek', 'geospasial', 'sosial', 'ekonomi']",1.0,1.0
+100,"['serta', 'daftar', 'daftar', 'nama', 'serta', 'vaksinasi']",1.0,1.0
+101,"['serta', 'ktp', 'dki', 'jakarta', 'surat', 'terang', 'domisili', 'dki', 'jakarta', 'serta', 'bawa', 'ktp', 'surat', 'terang', 'domisili', 'laksana', 'vaksinasi', 'covid', 'serta', 'milik', 'sakit', 'kronik', 'bawa', 'surat', 'layak', 'vaksinasi', 'dokte']",1.0,1.0
+102,"['rumah', 'sakit', 'layan', 'ktp', 'dki', 'surat', 'terang', 'domisili', 'dki', 'jakarta', 'syarat', 'syarat', 'vaksinasi', 'covid']",1.0,1.0
+103,"['rscm', 'jakarta', 'salah', 'rumah', 'sakit', 'layan', 'vaksin', 'covid', 'masyarakat', 'dki', 'jakarta', 'usia', 'layan', 'vaksinasi', 'rscm', 'poliklinik', 'madya', 'rscm']",1.0,0.0
+104,"['daftar', 'vaksin', 'covid', 'warga', 'usia', 'jakarta', 'aplikasi', 'peduli', 'lindung', 'link', 'daftar', 'vaksinasi']",1.0,1.0
+105,"['vaksinasi', 'fasilitas', 'vaksinasi', 'dki', 'jakarta']",1.0,1.0
+106,"['juru', 'bicara', 'vaksinasi', 'covid', 'siti', 'nadia', 'tarmizi', 'pungut', 'biaya', 'suntik', 'vaksin', 'covid']",1.0,1.0
+107,"['masyarakat', 'dki', 'jakarta', 'usia', 'suntik', 'vaksin', 'covid', 'menteri', 'sehat', 'izin', 'laksana', 'vaksinasi', 'virus', 'corona', 'tahap', 'target', 'masyarakat', 'dki', 'jakarta']",1.0,1.0
+108,"['penasaran', 'gak', 'vaksinasi', 'jakarta', 'umur', 'atas', 'simak']",1.0,1.0
+109,"['dukung', 'cepat', 'vaksinasi', 'massal', 'capa', 'herd', 'immunity']",1.0,1.0
+110,"['masyarakat', 'awas', 'jalan', 'program', 'vaksinasi', 'daerah', 'capai', 'herd', 'immunity']",1.0,1.0
+111,"['tidur', 'cepet', 'deas', 'besok', 'vaksinasi', 'covid']",1.0,1.0
+112,"['dukung', 'program', 'vaksinasi', 'nasional', 'juta', 'vaksin', 'hari']",1.0,1.0
+113,"['ri', 'tinjau', 'laksana', 'vaksinasi', 'stasiun', 'bogor']",1.0,1.0
+114,"['wakil', 'ketua', 'mpr', 'ri', 'lestari', 'moerdijat', 'nilai', 'cepat', 'bentuk', 'kebal', 'kelompok', 'program', 'vaksinasi', 'covid', 'nasional', 'realisasi']",1.0,1.0
+115,"['tunjungtejo', 'koramil', 'pituruh', 'damping', 'vaksinasi', 'lansia']",1.0,1.0
+116,"['dukung', 'program', 'juta', 'vaksin', 'lumajang', 'gelar', 'vaksinasi', 'massal']",1.0,1.0
+117,"['rapat', 'baris', 'laku', 'vaksinasi', 'covid', 'bawa', 'syarat', 'ktp', 'dki', 'jakarta', 'surat', 'terang', 'domisili', 'layan', 'goshow', 'vaksinasi', 'senin', 'jum', 'sesuai', 'postingan']",1.0,1.0
+118,"['reposted', 'sawah', 'halloooo', 'info', 'terupdate', 'quota', 'lokasi', 'vaksinasi', 'atas', 'warga', 'dki', 'jakarta', 'warga', 'sawah', 'usia', 'atas', 'vaksinasi', 'astrazeneca']",1.0,0.0
+119,"['semarang', 'vaksinasi', 'banyak']",1.0,1.0
+120,"['lindung', 'fokus', 'terap', 'imunitas', 'alami', 'pasca', 'infeksi', 'aku', 'testing', 'bas', 'risiko', 'proporsional', 'testostes', 'anggar', 'vaksinasi', 'testing', 'mesti', 'rang', 'alih', 'insentif', 'nakes', 'sarana', 'prasarana', 'teliti']",0.0,1.0
+121,"['teman', 'teman', 'vaksin', 'vaksin', 'sekitar', 'kuningan', 'setiabudi', 'coba', 'daftar']",1.0,1.0
+122,"['tenda', 'vaksinasi', 'massal', 'stadion', 'ambruk', 'proses', 'vaksinasi', 'pindah', 'area', 'area']",0.0,0.0
+123,"['jaga', 'jarak', 'keliar', 'rumah', 'vaksinasi']",1.0,1.0
+124,"['kadus', 'vaksinasi', 'pulau', 'sumenep']",1.0,1.0
+125,"['hut', 'lumajang', 'gelar', 'vaksinasi', 'covid', 'massal']",1.0,1.0
+126,"['tulangbawang', 'lampung', 'gelar', 'vaksinasi', 'massal', 'tahap', 'sasar', 'utama', 'warga', 'usia', 'lansia']",1.0,1.0
+127,"['damping', 'tinjau', 'vaksinasi', 'massal', 'covid', 'bogor']",1.0,1.0
+128,"['damping', 'gertak', 'vaksinasi', 'ppkm', 'mikro', 'personel', 'koramil', 'tembuku']",1.0,0.0
+129,"['sebut', 'cepat', 'vaksinasi', 'nasional', 'jawa', 'tekan', 'laju', 'sebar', 'positif', 'covid']",1.0,1.0
+130,"['gelombang', 'vaksinasi', 'kota']",1.0,1.0
+131,"['boleh', 'vaksinasi', 'fasilitas', 'sehat', 'sesuai', 'domisili', 'ktp', 'lokasi', 'tinggal', 'terima', 'kasih']",1.0,1.0
+132,"['pas', 'vaksin', 'az', 'suruh', 'minum', 'sanmol', 'vaksinasi', 'malemnya', 'demam', 'pagi', 'turun', 'minum', 'sanmol', 'malemnya', 'turun', 'sehat', 'sakit', 'dikit', 'tempat', 'tusuk', 'vaksin']",0.0,0.0
+133,"['sidang', 'suka', 'hati', 'pm', 'janji', 'dh', 'lengkap', 'vaksinasi', 'benar', 'rentas', 'negeri']",1.0,1.0
+134,"['informasi', 'hubung', 'hotline', 'vaksinasi', 'covid', 'sehat']",1.0,1.0
+135,"['reposted', 'johar', 'sahabat', 'sehat', 'johar', 'giat', 'vaksinasi', 'covid', 'duduk', 'usia', 'atas', 'vaksinasi']",1.0,1.0
+136,"['vaksinasi', 'interaksi', 'cepat']",1.0,1.0
+137,"['informasi', 'kait', 'vaksinasi', 'covid', 'non', 'lansia', 'ktp', 'depok']",1.0,1.0
+138,"['vaksinasi', 'covid', 'efek', 'samping', 'rasa', 'salah', 'satu', 'badan', 'pegal', 'normal', 'tanda', 'tubuh', 'lindung', 'antibodi', 'ladies']",0.0,0.0
+139,"['kunjung', 'bogor', 'vaksinasi', 'cepat']",1.0,1.0
+140,"['program', 'vaksinasi', 'indonesia', 'banget', 'target']",0.0,1.0
+141,"['nganjuk', 'vaksinasi', 'covid', 'ribu', 'warga']",1.0,1.0
+142,"['kon', 'tau', 'tha', 'kemudi', 'bluebird', 'surabaya', 'medan', 'vaksin', 'total', 'ngelakuin', 'vaksinasi', 'mandiri', 'kota', 'kota', 'jabodetabek', 'lombok', 'bal', 'moga', 'jalan']",1.0,0.0
+143,"['ladies', 'vaksinasi', 'covid', 'cegah', 'sebar', 'virus', 'upaya', 'tingkat', 'imun', 'tubuh', 'mudah', 'jangkit', 'virus', 'vaksin', 'tahu']",1.0,1.0
+144,"['pilih', 'tunggu', 'turn', 'vaksinasi']",1.0,0.0
+145,"['vaksinasi', 'imunisasi', 'mana', 'sesuai', 'vaksinasi', 'imunisasi']",1.0,1.0
+146,['valid'],1.0,1.0
+147,"['malut', 'sukses', 'vaksinasi', 'nasional', 'terima']",1.0,1.0
+148,"['lokasi', 'batam', 'vaksin', 'covid', 'lokasi', 'kerumun', 'massa', 'atas', 'vaksin']",1.0,0.0
+149,"['contoh', 'putrajaya', 'duduk', 'ribu', 'agih', 'vaksin', 'tesebut', 'putrajaya', 'lengkap', 'vaksinasi', 'tesebut', 'jesteru', 'putrajaya', 'tutup', 'populasi', 'negeri', 'vaksinasi', 'lengkap', 'singkat', 'agih', 'vaksinasi']",0.0,0.0
+150,"['vaksinasi', 'solusi', 'anggap', 'kurang', 'infeksi', 'virus', 'covid', 'mutasi', 'negara', 'indonesia']",1.0,1.0
+151,"['jejas', 'vaksin', 'agih', 'laksana', 'cadang', 'laksana', 'pkp', 'malaysia', 'lengkap', 'vaksinasi', 'negeri', 'negeri']",1.0,1.0
+152,"['program', 'saring', 'vaksinasi', 'covid', 'gelandang', 'wpkl', 'anjung', 'kelana', 'jom', 'ambik', 'vaksin', 'baik']",1.0,1.0
+153,"['bas', 'tenda', 'milik', 'bnpb', 'bpbd', 'lokasi', 'vaksinasi', 'massal', 'stadion', 'via']",1.0,1.0
+154,"['arsel', 'aiptu', 'nurhadi', 'monitoring', 'giat', 'vaksinasi', 'massal', 'aula', 'ppk']",1.0,1.0
+155,"['cepat', 'vaksinasi', 'covid', 'jombang']",1.0,1.0
+156,"['better', 'stop', 'politik', 'kejap', 'ydpa', 'lantik', 'lead', 'negara', 'vaksinasi', 'selesai', 'anwar', 'tun', 'lantik', 'betuk', 'nak', 'pulih', 'negara']",0.0,1.0
+157,"['kolam', 'koramil', 'laksana', 'aman', 'vaksinasi', 'bga']",1.0,0.0
+158,"['dasar', 'analisis', 'evaluasi', 'tito', 'cenderung', 'masyakarat', 'jenuh', 'terap', 'prokes', 'senjata', 'utama', 'putus', 'rantai', 'sebar', 'covid', 'samping', 'upaya', 'vaksinasi']",0.0,0.0
+159,"['susah', 'banget', 'sore', 'isi', 'tambah', 'kapasitas', 'daftar', 'vaksinasi', 'vaksin', 'males']",0.0,1.0
+160,"['pura', 'target', 'vaksinasi', 'covid', 'karyawan', 'tuntas']",1.0,1.0
+161,"['bikin', 'demam', 'bikin', 'jalan', 'macet', 'vaksinasi']",0.0,1.0
+162,"['kembang', 'vaksinasi', 'covid', 'indonesia', 'tanggal', 'wib']",1.0,0.0
+163,"['giat', 'pam', 'vaksinasi', 'covid', 'wilkum', 'bangun', 'purba', 'selamat', 'siang', 'komandan', 'ijin', 'lapor', 'giat', 'pam', 'vaksinasi', 'covid', 'tahap', 'wilkum', 'bangun', 'purba', '', 'sbb', 'dasar', 'undang', 'undang', 'nomor', 'polisi', 'negara', 'republik', 'indonesia']",1.0,1.0
+164,"['dashboard', 'vaksinasi', 'saji', 'informasi', 'aktual', 'covid', 'indonesia']",1.0,1.0
+165,"['vaksinasi', 'interaksi', 'cepat', 'publik', 'stasiun', 'bus', 'labuh', 'prioritas']",1.0,1.0
+166,"['politeknik', 'ati', 'makassar', 'laksana', 'vaksinasi', 'covid', 'dosis', 'makassar', 'politeknik', 'ati', 'makassar', 'vaksinasi', 'covid', 'dosis', 'laksana', 'aula', 'kampus']",1.0,0.0
+167,"['proses', 'vaksinasi', 'jalan', 'jamin', 'vaksin', 'simpan', 'aman']",1.0,0.0
+168,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'bogor']",1.0,1.0
+169,"['vaksinasi', 'massal', 'covid', 'kawasan', 'pasar', 'tanah', 'abang']",1.0,1.0
+170,"['cegah', 'covid', 'vaksinasi', 'tanah', 'air', 'beta']",1.0,0.0
+171,"['cepat', 'vaksinasi', 'stasiun', 'labuh']",1.0,1.0
+172,"['terjang', 'badai', 'tenda', 'vaksinasi', 'covid', 'porak', 'poranda', 'terima', 'tugas', 'vaksin', 'evakuasi']",0.0,0.0
+173,"['jubir', 'tiongkok', 'darat', 'atur', 'vaksinasi', 'tiongkok', 'darat', 'rekan', 'negara', 'taiwan', 'tunjuk', 'kasih', 'sayang']",1.0,1.0
+174,"['vaksinasi', 'stasiun', 'lingkung', 'harap', 'masyarakat', 'lindung', 'covid', 'lawan', 'pandemi']",1.0,1.0
+175,"['laksana', 'vaksinasi', 'masal', 'bas', 'banjar', 'singapadu', 'kaler']",1.0,1.0
+176,"['abis', 'vaksinasi', 'mau', 'sender', 'mulu', 'kaya', 'cakwe']",0.0,1.0
+177,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+178,"['vaksinasi', 'interaksi', 'cepat', 'publik', 'stasiun', 'bus', 'labuh', 'prioritas']",1.0,1.0
+179,"['tingkat', 'lonjak', 'varian', 'covid', 'indonesia', 'ambil', 'langkah', 'cepat', 'vaksinasi', 'masyarakat']",0.0,1.0
+180,"['vaksinasi', 'massal', 'rangka', 'magetan', 'rangka', 'ingat', 'hut', 'magetan', 'gelar', 'giat', 'vaksinasi', 'covid', 'massal', 'giat', 'laksana', 'gedung', 'pesat', 'gatra', 'magetan']",1.0,1.0
+181,"['edisi', 'dukung', 'program', 'vaksinasi', 'nasional', 'juta', 'vaksin', 'hari']",1.0,1.0
+182,"['tugas', 'juanda', 'jalan', 'vaksinasi']",1.0,0.0
+183,"['bogor', 'salah', 'wilayah', 'aglomerasi', 'sangga', 'kota', 'jakarta', 'tingkat', 'interaksi', 'duduk', 'vaksinasi', 'interaksi', 'cepat', 'lawan', 'pandemi']",1.0,1.0
+184,"['sibuk', 'ngawasin', 'vaksinasi']",0.0,1.0
+185,"['personil', 'jabiren', 'raya', 'aman', 'vaksinasi', 'tahap', 'covid', 'lansia', 'layan', 'publik', 'masyarakat', 'posyando', 'tumbang', 'nusa']",1.0,1.0
+186,"['besok', 'vaksinasi']",1.0,1.0
+187,"['klinik', 'permisi', 'bu', 'vaksinasi', 'daftar', 'bpk', 'ruang', 'smbl', 'nunjuk', 'verifikasi', 'identitas', 'bu', 'daftar', 'vaksinasi', 'daftar', 'akun', 'biar', 'centang', 'biru', 'badmood']",0.0,0.0
+188,"['data', 'vaksinasi', 'dosis', 'terima', 'vaksin', 'covid', 'lengkap', 'dosis', 'persentase', 'vaksinasi', 'lengkap', 'capai', 'persen']",1.0,1.0
+189,"['vaksinasi', 'covid', 'massal', 'kota', 'bekas', 'target', 'suntik', 'ribu']",1.0,0.0
+190,"['wujud', 'masyarakat', 'sehat', 'produktif', 'vaksinasi', 'covid']",1.0,1.0
+191,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat']",1.0,1.0
+192,"['syarat', 'bawa', 'lansia']",1.0,1.0
+193,"['dapet', 'info', 'temen', 'sudirman', 'ballroom', 'cuman', 'sampe', 'skrng', 'dapet', 'info', 'valid', 'temen', 'admin', 'vaksinasi', 'usia', 'jakarta']",0.0,0.0
+194,"['cicalengka', 'wetan', 'gelar', 'vaksinasi', 'lansia', 'sekdes', 'warga', 'antusias']",1.0,1.0
+195,"['terjang', 'stadion', 'tenda', 'vaksinasi', 'massal', 'runtuh']",0.0,0.0
+196,"['tinjau', 'vaksinasi', 'massal', 'menkes', 'tembus', 'juta']",1.0,1.0
+197,"['lokasi', 'vaksinasi', 'covid', 'warga', 'dki', 'jakarta', 'usia', 'warga', 'non', 'dki', 'jakarta']",1.0,1.0
+198,"['tinjau', 'vaksinasi', 'harap']",1.0,1.0
+199,"['respon', 'maklum', 'komentar', 'tenggelam', 'komentar', 'netizen', 'kalbar', 'mayoritas', 'percaya', 'bahaya', 'covid', 'asli', 'miris', 'isi', 'kolom', 'komentar', 'postingan', 'prokes', 'vaksinasi']",0.0,1.0
+200,"['sukses', 'vaksinasi', 'covid', 'kota', 'sukabumi', 'moga', 'pandemi']",1.0,0.0
+201,"['daftar', 'vaksinasi', 'fasilitas', 'sehat', 'dekat', 'unjung', 'situs', 'aplikasi', 'jaki']",1.0,1.0
+202,"['sasar', 'vaksinasi', 'provinsi', 'dki', 'jakarta', 'warga', 'jakarta', 'sehat', 'usia', 'milik', 'ktp', 'dki', 'jakarta', 'surat', 'terang', 'domisili', 'surat', 'terang', 'jakarta']",1.0,1.0
+203,"['bogor', 'buka', 'vaksinasi']",1.0,1.0
+204,"['lawan', 'covid', 'ribu', 'usaha', 'gelar', 'vaksinasi', 'gotong', 'royong']",1.0,1.0
+205,"['gelar', 'vaksinasi', 'titik', 'dukung', 'program', 'juta', 'dosis']",1.0,1.0
+206,"['xl', 'axiata', 'tbk', 'xl', 'axiata', 'tahap', 'vaksinasi', 'karyawan']",1.0,1.0
+207,"['tinjau', 'vaksinasi', 'harap', 'program', 'vaksinasi', 'juta', 'capai', 'jenderal', 'sigit', 'menteri', 'kesehtan', 'budi', 'gunadi', 'sadikin', 'tinjau', 'vaksinasi', 'stadion', 'bdg']",1.0,1.0
+208,"['vaksinasi', 'pos', 'limit', 'ktp', 'gak', 'daftar', 'either', 'ktp', 'pntg', 'diusahain', 'vaksinasi', 'shoot', 'shoot', 'mudah', 'ckup', 'warga', 'vaksin', 'sesuai', 'jatah', 'gak', 'overdosis', 'pntg', 'disosialisasiin']",0.0,1.0
+209,"['tinjau', 'laksana', 'vaksinasi', 'massal']",1.0,1.0
+210,"['nama', 'jalur', 'nambo', 'terima', 'kasih', 'sempat', 'moga', 'sehat', 'jumpa', 'vaksinasi', 'tahap']",1.0,1.0
+211,"['giat', 'vaksinasi', 'ada']",1.0,1.0
+212,"['komunitas', 'jalur', 'nambo', 'batas', 'undang', 'vaksinasi', 'covid', 'commuter', 'indonesia', 'kci', 'program', 'cepat', 'vaksinasi', 'guna', 'transportasi', 'bas', 'krl']",1.0,1.0
+213,"['informasi', 'panmas', 'vaksinasi', 'usia', 'atas', 'rangka', 'hut', 'bayangkari']",1.0,0.0
+214,"['keseeel', 'banget', 'abis', 'vaksinasi', 'napsu', 'makan', 'hilang', 'mulut', 'tolak', 'kunyah']",0.0,1.0
+215,"['kapolres', 'metro', 'jakarta', 'selatan', 'damping', 'hadir', 'undang', 'rapat', 'evaluasi', 'ppkm', 'vaksinasi', 'keluarga', 'tanggal', 'wib', 'tempat', 'kantor', 'walikota', 'jakarta', 'selatan']",1.0,1.0
+216,"['dukung', 'program', 'juta', 'vaksinasi', 'lumajang', 'gelar', 'vaksinasi', 'covid', 'massal']",1.0,1.0
+217,"['teman', 'teman', 'bingung', 'daftar', 'vaksin', 'gampang', 'aplikasi', 'jaki', 'web', 'daftar']",1.0,1.0
+218,"['putar', 'info', 'vaksinasi', 'usia', 'atas', 'liat']",1.0,0.0
+219,"['satu', 'brimob', 'laksana', 'vaksinasi', 'gratis']",1.0,1.0
+220,"['pidie', 'ketat', 'tracking', 'vaksinasi', 'zona', 'merah', 'via']",1.0,1.0
+221,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+222,"['usaha', 'dukung', 'program', 'vaksinasi', 'nasional']",1.0,1.0
+223,"['program', 'juta', 'hari', 'tinjau', 'vaksinasi']",1.0,1.0
+224,"['grab', 'hadir', 'pusat', 'vaksinasi', 'ramah', 'sandang', 'disabilitas', 'yogyakarta']",1.0,1.0
+225,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi']",1.0,1.0
+226,"['buka', 'vaksinasi', 'muda', 'lindung', 'karna', 'risiko', 'tua', 'muda', 'ngeri', 'liat', 'vaksinasi', 'massal', 'ngebludak', 'daftar', 'online', 'tetep', 'spot', 'dluan', 'dapet']",0.0,0.0
+227,"['kantor', 'vaksinasi', 'gratis', 'gak', 'alas', 'tunggu', 'sinovac', 'adaaaa', 'milih']",0.0,1.0
+228,"['tinjau', 'laksana', 'vaksinasi', 'covid', 'massal', 'laku', 'sektor', 'jasa', 'uang', 'gelar', 'tennis', 'indoor', 'senayan', 'jakarta']",1.0,1.0
+229,"['tts', 'kondisi', 'langka', 'covid', 'akibat', 'trombositopenia', 'lampu', 'merah', 'risiko', 'buru', 'mati', 'hinga', 'hindar', 'vaksinasi', 'khawatir', 'efek', 'samping']",0.0,1.0
+230,"['selaras', 'rekomendasi', 'papdi', 'guna', 'vaksin', 'astrazeneca']",1.0,1.0
+231,"['who', 'pedoman', 'diagnosis', 'tatalaksana', 'sindrom', 'trombosis', 'trombositopenia', 'pasca', 'vaksinasi', 'covid', 'vaksin', 'vektor', 'adenovirus']",1.0,1.0
+232,"['vaksinasi', 'harap', 'kurang', 'derita', 'covid', 'awat', 'rumah', 'sakit', 'kurang', 'risiko', 'infeksi', 'cegah', 'tular', 'covid', 'tatar', 'rumah', 'tangga']",1.0,0.0
+233,"['vaksin', 'astrazeneca', 'vaksin', 'covid', 'harap', 'kurang', 'angka', 'mati', 'covid', 'satu', 'metode', 'kurang', 'risiko', 'mati', 'covid', 'vaksinasi']",1.0,1.0
+234,"['azd', 'vaksin', 'jenis', 'vektor', 'viral', 'virus', 'efek', 'vaksinasi', 'terima', 'beda', 'jenis', 'sinovac', 'virus', 'aktivitas', 'virus', 'mati']",1.0,1.0
+235,"['covid', 'tanjak', 'cepat', 'pelbagai', 'bahan', 'dunia', 'muncul', 'varian', 'tular', 'program', 'vaksinasi', 'upaya', 'jalan', 'cepat']",0.0,1.0
+236,"['sumsel', 'brigjen', 'rudi', 'setiawan', 'tinjau', 'laksana', 'vaksinasi', 'massal', 'tempat', 'rumah', 'sakit', 'rivai', 'abdullah', 'sungai', 'kundur', 'mariana', 'mariana', 'banyuasin']",1.0,0.0
+237,"['vaksinasi', 'masal', 'batubulan', 'kebal', 'komunal']",1.0,1.0
+238,"['vaksinasi', 'covid', 'lingkung', 'bbws', 'rayu', 'opak']",1.0,0.0
+239,"['puluh', 'pkl', 'wilayah', 'ppp', 'mayang', 'vaksinasi', 'covid']",1.0,1.0
+240,"['jakarta', 'vaksinasi', 'gin']",0.0,1.0
+241,"['cepat', 'proses', 'vaksinasi', 'yb']",1.0,1.0
+242,"['mlati', 'sendangadi', 'koramil', 'mlati', 'serka', 'nuralim', 'laksana', 'monitoring', 'vaksinasi', 'astrazeneca', 'tahap', 'lansia', 'mlati', 'tempat', 'pendopo', 'kalurahan', 'sendangadi', 'kapanewon', 'mlati']",1.0,0.0
+243,"['mulia', 'ayo', 'cepat', 'vaksinasi']",1.0,1.0
+244,"['laksana', 'vaksinasi', 'covid', 'massal', 'warga', 'usia', 'lansia', 'guru', 'layan', 'publik', 'pringsewu', 'capai', 'tiga']",1.0,1.0
+245,"['vaksinasi', 'lansia', 'bal', 'rampung', 'persen']",1.0,1.0
+246,"['bogor', 'vaksinasi', 'interaksi', 'cepat', 'publik', 'stasiun', 'bus', 'labuh', 'prioritas']",1.0,1.0
+247,"['vaksinasi', 'interaksi', 'cepat', 'publik', 'stasiun', 'bus', 'labuh', 'prioritas']",1.0,1.0
+248,"['vaksinasi', 'massal', 'upaya', 'tangan', 'sebar', 'covid']",1.0,1.0
+249,"['susah', 'bikin', 'vaksinasi', 'drive', 'thru', 'motor', 'aman', 'nyediain', 'lapang', 'parkir', 'plis', 'atur', 'kerumun', 'segambreng', 'gambreng', 'emang']",0.0,1.0
+250,"['ratus', 'kemudi', 'ojek', 'online', 'kota', 'malang', 'vaksinasi', 'husada', 'bunda']",1.0,1.0
+251,"['kopda', 'ngembatpadas', 'wakapolsek', 'iptu', 'sucipto', 'laksana', 'giat', 'aman', 'pantau', 'vaksinasi', 'lansia', 'tempat', 'aula', 'balai', 'jatibatur', 'laksana', 'tugas', 'sehat', 'golong']",1.0,0.0
+252,"['milik', 'berani', 'vaksin', 'tenang', 'saraf', 'vaksinasi']",0.0,1.0
+253,"['bang', 'rencana', 'ntb', 'vaksinasi', 'masal', 'tunggu', 'gantung', 'vaksin', 'buat', 'lokal', 'covid', 'tunggu']",0.0,1.0
+254,"['vaksinasi', 'massal', 'cepat']",1.0,1.0
+255,"['warga', 'rorotan', 'jalan', 'vaksinasi', 'dinamis', 'covid']",1.0,1.0
+256,"['guna', 'krl', 'kelompok', 'kerja', 'layan', 'publik', 'masyarakat', 'ikut', 'giat', 'vaksinasi']",1.0,0.0
+257,"['vaksinasi', 'stasiun', 'lingkung', 'harap', 'masyarakat', 'lindung', 'covid']",1.0,1.0
+258,"['tinjau', 'laksana', 'vaksinasi', 'stasiun', 'bogor', 'wib', 'damping', 'menteri', 'sehat', 'budi', 'gunadi', 'sadikin', 'jawa', 'barat', 'wali', 'kota', 'bogor', 'bima', 'arya', 'direktur', 'utama', 'kai', 'didiek', 'hartantyo']",1.0,1.0
+259,"['terang', 'lepas', 'tinjau', 'laksana', 'vaksinasi', 'stasiun', 'bogor', 'kota', 'bogor', 'jawa', 'barat']",1.0,1.0
+260,"['cepat', 'vaksinasi', 'interaksi', 'vaksinasi', 'interaksi', 'cepat', 'publik', 'sta', 'bus', 'labuh', 'prioritas']",1.0,1.0
+261,"['vaksinasi', 'insya', 'allah', 'agustus', 'vaksin', 'dewasa', 'jakarta']",1.0,1.0
+262,"['rumah', 'sakit', 'permata', 'jonggol', 'tuan', 'rumah', 'laksana', 'vaksinasi', 'massal']",1.0,1.0
+263,"['grab', 'luncur', 'pusat', 'vaksinasi', 'ramah', 'sandang', 'disabilitas', 'yogyakarta', 'via']",1.0,1.0
+264,"['vaksinasi', 'massal', 'pasar', 'spare', 'part', 'jambi', 'sasar', 'dagang']",1.0,1.0
+265,"['serentak', 'indramayu', 'laku', 'vaksinasi']",1.0,1.0
+266,"['olimpiade', 'mending', 'undur', 'dibatalin', 'banget', 'sistem', 'vaksinasi', 'jepang', 'aneh', 'negara', 'maju', 'jepang', 'sampe', 'persentase', 'warga', 'jepang', 'nentang', 'olimpiade', 'sampe', 'nyentuh', 'angka', 'gila']",0.0,1.0
+267,"['tenda', 'roboh', 'vaksinasi', 'covid', 'pindah', 'ruang']",0.0,0.0
+268,"['mati', 'warga', 'usia', 'australia', 'boleh', 'warga', 'vaksinasi', 'astrazeneca']",0.0,1.0
+269,"['warga', 'pancoran', 'jakarta', 'selatan', 'terima', 'vaksinasi', 'covid', 'sentra', 'vaksinasi', 'sentra', 'vaksinasi', 'sma', 'guru', 'cikini', 'gor', 'adegan', 'gedung', 'smesco', 'rumah', 'sakit']",1.0,0.0
+270,"['vaksinasi', 'massal', 'cepat']",1.0,1.0
+271,"['kapolres', 'tulungagung', 'handono', 'subiakto', 'mh', 'ketua', 'cabang', 'tulungagung', 'tinjau', 'laksana', 'vaksinasi', 'massal', 'anggota', 'pns', 'purna', 'warakawuri', 'tempat', 'tulungagung']",1.0,0.0
+272,"['terima', 'kasih', 'informasi', 'sebar', 'medsos', 'rumah', 'sakit', 'selenggara', 'vaksinasi', 'lengkap', 'mahasiswa', 'pra', 'korban', 'phk', 'anggur', 'beri', 'vaksin', 'covid', 'laksana']",1.0,1.0
+273,"['check', 'out', 'great', 'kadiskes', 'riau', 'pasti', 'warga', 'inhu', 'rohul', 'tinggal', 'vaksinasi', 'vaksin']",0.0,1.0
+274,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+275,"['terima', 'kunjung', 'rangka', 'tinjau', 'laksana', 'vaksin', 'wilayah', 'lanumad', 'yani', 'asistensi', 'kunjung', 'rangka', 'tinjau', 'laksana', 'vaksin', 'wilkum', 'pura', 'barutama', 'giat', 'vaksinasi']",1.0,1.0
+276,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+277,"['bpjs', 'sehat', 'tanggung', 'biaya', 'efek', 'samping', 'akibat', 'vaksinasi', 'covid', 'via']",1.0,1.0
+278,"['vaksinasi', 'covid', 'timbul', 'varian', 'virus', 'fakta']",0.0,0.0
+279,"['jajar', 'lembaga', 'masyarakat', 'kelas', 'iia', 'bulukumba', 'ikut', 'giat', 'vaksinasi', 'covid', 'tahap', 'aula', 'smp', 'negeri', 'bulukumba']",1.0,0.0
+280,"['gua', 'tugas', 'vaksinasi', 'kasih', 'info', 'vaksin', 'mampir', 'lapak', 'habis', 'gak', 'info', 'vaksin', 'sehat', 'bareng', 'herd', 'immunity', 'wujud']",1.0,1.0
+281,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat']",1.0,1.0
+282,"['mantap', 'ayo', 'vaksinasi']",1.0,1.0
+283,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil']",1.0,1.0
+284,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan']",1.0,1.0
+285,"['takut', 'vaksinasi']",1.0,1.0
+286,"['vaksinasi', 'tuju', 'biar', 'tubuh', 'antibodi', 'spesifik', 'sakit', 'vaksin', 'biar', 'lindung', 'tubuh', 'sakit', 'parah', 'mati', 'sakit', 'gak', 'vaksin', 'tubuh', 'paksa', 'bikin', 'antibodi', 'sakit']",1.0,0.0
+287,"['jenderal', 'sigit', 'harap', 'masyarakat', 'sentra', 'sentra', 'vaksinasi', 'covid']",1.0,1.0
+288,"['vaksinasi', 'hiyaa']",1.0,1.0
+289,"['guru', 'smk', 'nurul', 'islam', 'cianjur', 'jalan', 'vaksinasi', 'tahap']",1.0,1.0
+290,"['klinik', 'bangun', 'fasilitas', 'lengkap', 'agnez', 'klinik', 'vaksinasi', 'sembuh', 'covid', 'showbiz']",1.0,1.0
+291,"['bahbinkamtibmas', 'tahai', 'jaya', 'tumbuh', 'sadar', 'masyarakat', 'ikut', 'giat', 'vaksinasi', 'covid']",1.0,1.0
+292,"['denmark', 'senin', 'atur', 'pake', 'cabut', 'ttp', 'musti', 'covid', 'test', 'minggu', 'sekolah', 'suami', 'minggu', 'tmpt', 'kerja', 'gilir', 'vaksinasi', 'skr', 'lahir']",0.0,1.0
+293,"['vaksinasi', 'konsentrasi', 'goblog', 'oke', 'lurah', 'kota', 'ga', 'pecah', 'titik']",0.0,0.0
+294,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat']",1.0,1.0
+295,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+296,"['tenda', 'roboh', 'vaksinasi', 'covid', 'pindah']",0.0,0.0
+297,"['deras', 'tenda', 'vaksinasi', 'massal', 'stadion', 'ambruk']",0.0,0.0
+298,"['ajak', 'masyarakat', 'datang', 'sentra', 'vaksinasi', 'covid', 'kota']",1.0,0.0
+299,"['daftar', 'mbak', 'slot', 'rsud', 'keb', 'daftar', 'vaksinasi', 'ikutin', 'langkah', 'ssnya']",1.0,1.0
+300,"['tinjau', 'vaksinasi', 'harap']",1.0,1.0
+301,"['capai', 'cakup', 'vaksinasi', 'covid', 'provinsi', 'kalimantan', 'barat', 'bilang', 'rendah', 'cepat', 'capai', 'covid', 'provinsi', 'kalimantan', 'barat', 'gelar', 'vaksinasi', 'massal']",0.0,1.0
+302,"['cegah', 'covid', 'vaksinasi', 'bale', 'wonosigro']",1.0,1.0
+303,"['supermarket', 'indomaret', 'alfamart', 'putar', 'legenda', 'malaka', 'habis', 'youc', 'botol', 'kaca', 'efek', 'minggu', 'adakan', 'vaksinasi', 'masal', 'temenggung', 'mega', 'mall', 'untung', 'nemu', 'toko', 'klontong']",1.0,1.0
+304,"['harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+305,"['vaksin', 'nusantara', 'kalah', 'covid', 'varian', 'delta', 'awan', 'gampang']",1.0,1.0
+306,"['forkopimda', 'mamuju', 'gelar', 'vaksinasi', 'massal']",1.0,1.0
+307,"['gelar', 'vaksinasi', 'titik', 'indonesia']",1.0,0.0
+308,"['giat', 'vaksinasi', 'henti', 'lanjut', 'alih', 'area', 'gedung']",1.0,0.0
+309,"['jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa', 'foto']",1.0,1.0
+310,"['sigit', 'ar', 'laksana', 'giat', 'monitoring', 'laksana', 'vaksinasi', 'covid', 'warga', 'lansia', 'mendur', 'brati']",1.0,1.0
+311,"['cepat', 'vaksinasi', 'nasi', 'kapau', 'vaksinasi', 'jangkau', 'pulau', 'tanjungpinang', 'kota', 'pulau', 'sengat']",1.0,1.0
+312,"['beda', 'vaksinasi', 'gotong', 'royong']",1.0,0.0
+313,"['vaksinasi', 'layan', 'publik', 'lansia', 'vaksin', 'kota', 'bogor', 'tahap', 'sandang', 'disabilitas', 'guna', 'krl', 'pagi', 'pantau', 'vaksin', 'stasiun', 'bogor', 'nuhun']",1.0,1.0
+314,"['capai', 'program', 'vaksinasi', 'tahap', 'persen', 'dosis', 'persen', 'dosis', 'lengkap', 'target', 'terima']",1.0,1.0
+315,"['bojongkulur', 'zona', 'merah', 'covid', 'vaksinasi', 'giat', 'warga', 'bojongkulur', 'langkah', 'kendali', 'kurang', 'pandemi']",0.0,1.0
+316,"['catat', 'vaksinasi', 'laksana', 'bojongkulur', 'dinas', 'sehat', 'bogor', 'ciangsana', 'bojongkulur', 'warga', 'bojongkulur']",1.0,1.0
+317,"['vaksinasi', 'bojongkulur', 'tiga', 'wilujeng', 'wengi', 'wargi', 'bojongkulur']",1.0,1.0
+318,"['bom', 'program', 'vaksinasi', 'keluarga', 'pegawai', 'itb', 'bru', 'daftar', 'online', 'kmaren', 'gatau', 'udh', 'pisah', 'kk', 'keitung', 'ngga']",1.0,1.0
+319,"['kerja', 'sektor', 'angkut', 'udara', 'darat', 'laut', 'terima', 'vaksin', 'tuju', 'bahawa', 'lapang', 'terbang', 'labuh', 'depoh', 'prasarana', 'pusat', 'vaksinasi', 'industri']",1.0,1.0
+320,"['konyol', 'emang', 'vaksinasi', 'udh', 'bilang', 'bikin', 'kontinue', 'hari', 'abrek']",0.0,0.0
+321,"['vaksinasi', 'covid', 'gelombang', 'tahap', 'rumah', 'singgah', 'covid', 'bengkayang', 'wib', 'selesai']",1.0,1.0
+322,"['guru', 'prioritas', 'vaksinasi']",1.0,1.0
+323,"['khofifah', 'vaksinasi', 'prokes', 'cegah', 'covid']",1.0,1.0
+324,"['ayo', 'vaksinasi', 'takut']",1.0,1.0
+325,"['vaksinasi', 'tekan', 'sebar', 'virus', 'corona']",1.0,1.0
+326,"['tenda', 'vaksinasi', 'stadion', 'roboh', 'akibat', 'serta', 'vaksinasi', 'lanjut', 'ruang', 'alat', 'vaksinasi', 'aman']",0.0,0.0
+327,"['jadwal', 'vaksinasi', 'ken', 'ngeluh', 'netijen', 'ngomong', 'resiko', 'suruh', 'nakes', 'bhaiiiiiqqqqq']",0.0,0.0
+328,"['apa', 'vaksin', 'takut', 'vaksinasi', 'kurang', 'resiko', 'subjek', 'rentan', 'tular']",1.0,0.0
+329,"['senin', 'besok', 'jam', 'vaksinasi', 'massal', 'stadion', 'joyokusumo', 'syarat', 'bawa', 'ktp', 'pakai', 'sesuai', 'prokes', 'gratis', 'biaya', 'barusan', 'dapet', 'info', 'tugas', 'pati', 'moga', 'bantu']",1.0,1.0
+330,"['ojk', 'tri', 'sehat', 'gelar', 'program', 'vaksinasi', 'massal']",1.0,1.0
+331,"['forkopimcam', 'pasekan', 'gencar', 'vaksinasi', 'masal']",1.0,1.0
+332,"['this', 'one', 'too', 'bahan', 'tahu', 'mutasi', 'jenis', 'virus', 'corona', 'biar', 'suka', 'sebar', 'berita', 'propaganda', 'tolak', 'vaksinasi', 'pakai', 'tahu', 'khusus', 'corona', 'virus', 'pandemi', 'covid', 'ngga', 'ngomong']",1.0,0.0
+333,"['vaksinasi', 'massal', 'ribu', 'laku', 'sektor', 'jasa', 'uang']",1.0,1.0
+334,"['data', 'vaksinasi', 'covid', 'lengkap']",1.0,0.0
+335,"['minn', 'daftar', 'vaksinasi', 'jadwal', 'daftar', 'milih', 'tanggal', 'submit', 'thx', 'advance']",0.0,0.0
+336,"['dinkes', 'dki', 'jakarta', 'sebut', 'patuh', 'warga', 'pakai', 'turun', 'persen', 'warga', 'jakarta', 'imbau', 'lengah', 'covid']",0.0,1.0
+337,"['tinjau', 'vaksinasi', 'karyawan', 'tekstil', 'tracing', 'testing', 'kuat', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+338,"['mending', 'nunda', 'nunda', 'vaksinasi']",1.0,1.0
+339,"['vaksinasi', 'massal', 'sambut', 'antusias', 'masyarakat']",1.0,1.0
+340,"['rumah', 'sakit', 'lapang', 'rumkitlap', 'ancol', 'mal', 'artha', 'gading']",1.0,1.0
+341,"['tanggal', 'palipi', 'brigadir', 'herman', 'siahaan', 'laksana', 'giat', 'vaksinasi', 'covid', 'sitio', 'tio', 'janji', 'maria', 'sitio', 'tio', 'samosir']",1.0,0.0
+342,"['dukung', 'vaksinasi', 'agnez', 'bangun', 'klinik', 'gratis', 'vaksin', 'covid']",1.0,1.0
+343,"['cek', 'laksana', 'lansia']",1.0,0.0
+344,"['cepat', 'interaksi', 'mobilitas', 'stasiun', 'bus', 'airport', 'labuh', 'situ', 'segera', 'sebar']",1.0,1.0
+345,"['kadrun', 'tolak', 'vaksin', 'panglima', 'bondong', 'bondong', 'vaksinasi']",0.0,0.0
+346,"['gebyar', 'vaksinasi', 'lansia', 'sirnarasa', 'infodesaku']",1.0,1.0
+347,"['vaksinasi', 'turun', 'hari', 'dosis', 'total', 'sunti']",0.0,1.0
+348,"['gebyar', 'vaksinasi', 'dukung', 'pencanganan', 'juta', 'hari', 'masyarakat', 'ikut']",1.0,1.0
+349,"['day', 'struggle', 'covid', 'diy', 'tembus', 'tinggi', 'pekan', 'sempat', 'vaksinasi', 'guna', 'jaga']",0.0,1.0
+350,"['alam', 'vaksinasi', 'dekat', 'cemput', 'gampang', 'tinggal', 'bawa', 'ktp', 'ambil', 'nomor', 'antri', 'screaning', 'vaksin', 'better', 'pagi', 'nomor', 'jam', 'vaksin', 'az', 'ga', 'efek', 'samping', 'apa', 'vaksin']",1.0,1.0
+351,"['tmmd', 'kodim', 'ternate', 'pantau', 'laksana', 'vaksinasi', 'masyarakat', 'moti']",1.0,1.0
+352,"['koramil', 'ajibarang', 'jemput', 'lansia', 'optimal', 'vaksinasi', 'covid']",1.0,1.0
+353,"['minbeks', 'info', 'buka', 'vaksinasi', 'daerah', 'bekas']",1.0,0.0
+354,"['korban', 'jiwa', 'insiden', 'roboh', 'tenda', 'vaksinasi', 'massal', 'stadiun']",1.0,0.0
+355,"['wako', 'padang', 'tinjau', 'vaksinasi', 'covid', 'perumda', 'air', 'minum', 'padang']",1.0,0.0
+356,"['dorong', 'cepat', 'vaksinasi', 'daerah']",1.0,1.0
+357,"['depresi', 'ngelihat', 'komentar', 'indonesia', 'covid', 'vaksinasi', 'emang', 'baca', 'kasih', 'media', 'sosial', 'omong', 'mending', 'diem', 'kasi', 'nakes', 'ga', 'hidup', 'normal']",0.0,1.0
+358,"['gedebage', 'polrestabes', 'giat', 'aman', 'serbu', 'vaksinasi', 'massal', 'rancanumpang', 'stadion', 'terap', 'protokol', 'sehat', 'acara', 'hadir', 'kepala', 'bnpb', 'menteri', 'sehat']",1.0,1.0
+359,"['artis', 'hijrah', 'baik', 'orang', 'kaya', 'negeri', 'bikin', 'sentral', 'vaksinasi', 'versi', 'mini', 'vaksinasi', 'warga', 'lingkung', 'mesti', 'butuh', 'biaya', 'koordinasi']",1.0,1.0
+360,"['tinjau', 'vaksinasi', 'karyawan', 'textile', 'tracing', 'testing', 'ketat']",1.0,1.0
+361,"['warga', 'masyarakat', 'jayanti', 'palabuhanratu', 'sukabumj', 'terima', 'bansos', 'blt', 'dd', 'vaksinasi', 'covid']",1.0,1.0
+362,"['harap', 'program', 'vaksinasi', 'nasional', 'juta', 'selenggara']",1.0,1.0
+363,"['tau', 'vaksinasi', 'massal']",1.0,0.0
+364,"['respon', 'vaksinasi', 'covid', 'massal', 'boyolali', 'randusari', 'teras', 'boyolali']",1.0,1.0
+365,"['jakarta', 'selatan', 'vaksinasi', 'covid', 'warga']",1.0,1.0
+366,"['lanjut', 'butuh', 'cepat', 'vaksinasi', 'rangka', 'capai', 'kebal', 'komunal', '', 'herd', 'immunity', '', 'harap', 'sebar', 'covid', 'hambat']",1.0,1.0
+367,"['anggur', 'solusi', 'nganggur', 'ternak', 'sapi', 'kambing', 'unggas', 'undang', 'vaksinasi']",0.0,0.0
+368,"['bincang', 'konferensi', 'video', 'wakil', 'rumah', 'sakit', 'ada', 'vaksinasi', 'permata', 'jonggol', 'emc', 'sentul', 'bina', 'husada', 'cimandala', 'citeureup', 'karadenan']",1.0,1.0
+369,"['jenderal', 'sigit', 'tinjau', 'laksana', 'vaksinasi', 'karyawan', 'tekstil', 'jawa']",1.0,1.0
+370,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'bogor', 'tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat']",1.0,1.0
+371,"['dukung', 'rapp', 'usaha', 'kuansing', 'vaksinasi', 'covid']",1.0,1.0
+372,"['datang', 'juta', 'dosis', 'vaksin', 'sinopharm', 'program', 'vaksinasi', 'gotong', 'royong']",1.0,0.0
+373,"['ws', 'mahasiswi', 'pulau', 'stay', 'semarang', 'nanya', 'vaksinasi', 'duduk', 'semarang']",1.0,0.0
+374,"['lawan', 'virus', 'covid', 'vaksinasi', 'protokol', 'sehat', 'aktivitas', 'rumah', 'sob']",1.0,1.0
+375,"['panik', 'gak', 'engga', 'kerabat', 'salah', 'alami', 'jadi', 'ikut', 'pasca', 'imunisasi', 'kipi', 'vaksinasi', 'utama', 'tenang', 'panik', 'sobatkom']",1.0,0.0
+376,"['sensasi', 'buru', 'buru', 'hoki', 'hoki', 'daftar', 'vaksinasi', 'warga', 'dki', 'jakarta', 'serasa', 'heboh', 'heboh', 'ngisi', 'krs']",1.0,1.0
+377,"['akang', 'ad', 'vaksinasi', 'covid', 'klinik', 'capa', 'ad', 'hegarmanah', 'ad', 'syarat']",1.0,1.0
+378,"['rapat', 'koordinasi', 'rangka', 'cepat', 'program', 'vaksinasi', 'covid', 'banjar', 'pimpin', 'wakapolres', 'banjar', 'tempat', 'aula', 'tribrata', 'banjar']",1.0,1.0
+379,"['vaksinasi', 'bawah', 'taun', 'ga', 'mandiri']",1.0,0.0
+380,"['muspika', 'malang', 'laksana', 'kece', 'giat', 'vaksinasi', 'gel', 'tahap', 'tugas', 'layan', 'publik', 'tempat', 'kantor', 'balai', 'tlogowatu', 'malang', 'klaten']",1.0,0.0
+381,"['vaksinasi', 'only', 'way', 'back', 'normal', 'nak', 'vaksin', 'slot', 'takde']",0.0,1.0
+382,"['tugas', 'patroli', 'sambung', 'pemdes', 'bojong', 'kawunganten', 'giat', 'vaksinasi', 'woro', 'woro', 'himbauan', 'kamtibmas', 'masy', 'patuh', 'terap', 'prokes', 'srt', 'cegah', 'rawan', 'siang']",1.0,0.0
+383,"['rais', 'syuriyah', 'pcnu', 'cianjur', 'vaksinasi', 'ikhtiar', 'kolektif', 'atas', 'pandemi', 'covid']",1.0,0.0
+384,"['nanya', 'putar', 'vaksinasi', 'ga', 'serius', 'plis']",1.0,0.0
+385,"['vaksinasi', 'covid', 'lansia', 'bal', 'capai', 'persen']",1.0,1.0
+386,"['dki', 'jakarta', 'zona', 'merah', 'dokter', 'senior', 'rutan', 'sosialisasi', 'vaksin', 'warga', 'bina', 'kepala', 'subsie', 'administrasi', 'awat', 'gaffar', 'waliyondi', 'dokter', 'senior', 'yusman', 'ada', 'sosialisasi', 'kait', 'laksana', 'vaksinasi', 'cegah', 'covid']",0.0,1.0
+387,"['minat', 'dok', 'smp', 'buru', 'vaksin', 'cari', 'info', 'vaksinasi', 'daftar']",1.0,1.0
+388,"['cek', 'vaksinasi', 'kunjung', 'daerah', 'rawan', 'covid']",1.0,0.0
+389,"['ga', 'gtu', 'sistem', 'vaksinasi', 'ga', 'bikin', 'kerumun']",0.0,0.0
+390,"['vaksinasi', 'lansia']",1.0,1.0
+391,"['tinjau', 'vaksinasi', 'harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+392,"['lansia', 'wonoroto', 'laku', 'vaksinasi', 'cegah', 'covid']",1.0,1.0
+393,"['kanit', 'intel', 'widasari', 'koramil', 'bangodua', 'laku', 'monitoring', 'giat', 'vaksinasi', 'covid', 'tahap', 'pra', 'lansia', 'lansia', 'didik', 'tenaga', 'didik', 'wilayah', 'widasari']",1.0,1.0
+394,"['bocah', 'tinggal', 'gigit', 'anjing', 'gencar', 'vaksinasi', 'rabies']",0.0,0.0
+395,"['tinjau', 'vaksinasi', 'massal', 'masyarakat', 'sandang', 'disabilitas', 'stadion', 'id']",1.0,1.0
+396,"['vaksinasi', 'covid', 'denpasar', 'capai', 'persen']",1.0,1.0
+397,"['gibran', 'optimis', 'herd', 'immunity', 'capai', 'solo', 'data', 'rilis', 'program', 'vaksinasi', 'solo', 'capai', 'persen', 'target', 'provinsi', 'jawa']",1.0,1.0
+398,"['tinjau', 'vaksinasi', 'harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+399,"['toko', 'swalayan', 'gardena', 'urip', 'sumoharjo', 'yogyakarta', 'personil', 'sabhara', 'gondokusuman', 'pimpin', 'panit', 'sabhara', 'ipda', 'wagimin', 'laksana', 'sambang', 'pantau', 'giat', 'vaksinasi', 'karyawan', 'toko', 'swalayan', 'gardena', 'urip', 'sumoharjo']",1.0,1.0
+400,"['tinjau', 'vaksinasi', 'sukun', 'vaksinasi', 'salah', 'tekan', 'tular', 'corona', 'lengkap', 'klik', 'taut']",1.0,0.0
+401,"['cepat', 'vaksinasi', 'guru', 'warga', 'sekolah', 'sekolah', 'buka', 'pdpr']",1.0,1.0
+402,"['cepat', 'vaksinasi', 'covid']",1.0,1.0
+403,"['jaga', 'sehat', 'seru', 'serda', 'suroto', 'damping', 'laksana', 'vaksinasi']",1.0,1.0
+404,"['adik', 'kandung', 'asma', 'vaksin', 'konsultasi', 'dokter', 'asma', 'kontrol', 'istri', 'susu', 'vaksinasi', 'stlh', 'konsultasi', 'rencana', 'vaksin', 'ragu', 'mending', 'konsultasi', 'biar', 'vaksinasi']",1.0,1.0
+405,"['bodo', 'tunggu', 'reg', 'vaksin', 'vaksin', 'vaksin', 'reg', 'feb', 'tiba', 'phase', 'lembab', 'sgt', 'drive', 'thru', 'cepat', 'vaksinasi', 'ppv', 'nak', 'cari', 'parking', 'nak', 'turun', 'nam', 'reg', 'lembab']",0.0,0.0
+406,"['terpa', 'kencang', 'tenda', 'vaksinasi', 'massal', 'roboh']",0.0,0.0
+407,"['ketua', 'pegawai', 'eksekutif', 'kumpul', 'msm', 'malaysia', 'holdings', 'bhd', 'syed', 'feizal', 'syed', 'mohammad', 'minta', 'gula', 'halus', 'tingkat', 'iring', 'program', 'vaksinasi', 'nasional']",1.0,1.0
+408,"['kabar', 'ras', 'juta', 'warga', 'indonesia', 'jalan', 'vaksinasi', 'covid']",1.0,1.0
+409,"['perempuan', 'rajawali', 'muda', 'bakti', 'bangsa', 'sumbangsih', 'bangun', 'klinik', 'gratis', 'covid', 'agnez']",1.0,1.0
+410,"['teman', 'kenal', 'vaksinasi', 'kmarin', 'astrazeneca', 'batch', 'bareng', 'puji', 'tuhan', 'sehat', 'kipi', 'serius', 'ragu', 'dokter', 'konsultasi', 'pas', 'vaksinasi', 'screening']",1.0,1.0
+411,"['layan', 'vaksinasi', 'covid', 'buka', 'wib', 'simak', 'jadwal']",1.0,1.0
+412,"['jadi', 'cepat']",1.0,1.0
+413,"['deket', 'rumah', 'vaksinasi', 'coba', 'ikut', 'dibolehin', 'tugas', 'karyawan']",0.0,1.0
+414,"['tinjau', 'proses', 'vaksinasi', 'kota']",1.0,1.0
+415,"['hati', 'daun', 'undang', 'vaksin', 'ragu', 'vaksinasi', 'prokes', 'ketat', 'capek', 'ngga', 'hrs', 'psbb', 'ketat']",0.0,0.0
+416,"['dukung', 'program', 'rutan', 'cipinang', 'gelar', 'vaksinasi', 'warga', 'bina']",1.0,1.0
+417,"['korsel', 'terima', 'juta', 'dosis', 'vaksin', 'usaha', 'farmasi']",1.0,1.0
+418,"['pandemi', 'insiden', 'aman', 'siber', 'tingkat', 'dampak', 'upaya', 'vaksinasi', 'baca', 'blog']",0.0,0.0
+419,"['setia', 'bangun', 'negeri', 'korem', 'abw', 'fasilitas', 'layan', 'vaksinasi', 'interen', 'masyarakat']",1.0,1.0
+420,"['tenda', 'vaksinasi', 'porak', 'poranda', 'terjang', 'badai']",0.0,0.0
+421,"['budaya', 'marut', 'kelapa', 'vaksinasi']",1.0,1.0
+422,"['pemko', 'payakumbuh', 'target', 'vaksinasi', 'warga']",1.0,1.0
+423,"['pemkot', 'jakpus', 'gelar', 'layan', 'vaksinasi', 'blok', 'pasar', 'tanah', 'abang']",1.0,1.0
+424,"['ribu', 'dosis', 'wali', 'kota', 'gibran', 'genjot', 'vaksinasi', 'driver', 'ojol', 'operasi', 'solo']",1.0,1.0
+425,"['vaksinasi', 'ga', 'gejala', 'efek', 'apa', 'bad', 'normal']",1.0,0.0
+426,"['target', 'ribu', 'vaksinasi', 'pemkot', 'tangerang', 'gandeng']",1.0,1.0
+427,"['temu', 'yasin', 'bogor', 'banyak', 'vaksinasi', 'massal', 'yasin', 'sebut', 'dinas', 'sehat', 'bogor', 'milik', 'vial', 'dosis', 'vaksin', 'covid', 'target', 'ribu', 'dosis', 'pakai', 'vaksinasi', 'massal']",1.0,1.0
+428,"['dukung', 'perintah', 'sukses', 'program', 'vaksinasi']",1.0,1.0
+429,"['koramil', 'adk', 'kodim', 'muspika', 'adi', 'koting', 'sinergitas', 'kawal', 'laksana', 'vaksinasi', 'masyarakat']",1.0,1.0
+430,"['data', 'covid', 'vaksinasi', 'covid', 'sobat', 'sobat', 'endless', 'ayo', 'jalan', 'protokol', 'sehat', 'mana', 'tingkat', 'disiplin', 'ingat', 'jaga', 'putus', 'rantai', 'covid']",1.0,1.0
+431,"['lepas', 'drama', 'vaksinasi', 'eldorado', 'sabi', 'kerja', 'banding']",1.0,0.0
+432,"['pemkot', 'jakpus', 'gelar', 'layan', 'vaksinasi', 'blok', 'pasar', 'tanah', 'abang', 'berita', 'jakarta']",1.0,1.0
+433,"['vaksinasi', 'massal', 'perhati', 'serius']",1.0,0.0
+434,"['lebat', 'serta', 'kencang', 'butir', 'sebab', 'tenda', 'vaksinasi', 'roboh', 'stadion', 'kota']",0.0,1.0
+435,"['ojk', 'ri', 'cepat', 'vaksinasi', 'industri', 'jasa', 'uang']",1.0,1.0
+436,"['tpp', 'kendari', 'ancam', 'potong', 'vaksinasi']",0.0,0.0
+437,"['diam', 'diam', 'bangun', 'klinik', 'vaksinasi', 'covid', 'gratis', 'agnez', 'tuai', 'decak', 'kagum', 'idola', 'banget']",1.0,1.0
+438,"['tau', 'tau', 'dapet', 'tiket', 'vaksinasi', 'pedulilindungi', 'tulis', 'faskes', 'bener', 'domisili', 'ttp', 'pake', 'surat', 'terang', 'domisili']",1.0,0.0
+439,"['hadir', 'grogol', 'monitoring', 'vaksinasi', 'lansia', 'edukasi', 'laksana', 'laku', 'terap', 'batas', 'giat', 'masyarakat', 'skala', 'mikro', 'ppkm', 'tangan', 'kendali', 'sebar', 'virus', 'corona', 'covid', 'tingkat']",1.0,0.0
+440,"['alamak', 'jang', 'londo', 'bagi', 'jam', 'austria', 'pagi', 'anak', 'wedok', 'mbarep', 'vaksinasi']",1.0,1.0
+441,"['titip', 'dok', 'info', 'vaksinasi', 'sptw', 'ad', 'mampir', 'cek', 'cek']",1.0,0.0
+442,"['besok', 'vaksinasi', 'parkir', 'atas']",1.0,0.0
+443,"['sukses', 'vaksinasi', 'cipta', 'senggigi', 'bebas', 'covid']",1.0,0.0
+444,"['ayo', 'dukung', 'perintah', 'sukses', 'program', 'vaksinasi', 'ragu', 'takut', 'ketat', 'prokes', 'abai']",1.0,1.0
+445,"['bupati', 'kapuas', 'tinjau', 'vaksinasi', 'covid', 'kawasan', 'danau', 'mare']",1.0,1.0
+446,"['dinkes', 'banda', 'aceh', 'pemko', 'banda', 'aceh', 'buka', 'vaksinasi', 'massal']",1.0,1.0
+447,"['pusat', 'vaksinasi', 'covid', 'wtckl', 'kuala', 'lumpur', 'wilayah', 'sekutu', 'kuala', 'lumpur']",1.0,1.0
+448,"['diskominfo', 'banda', 'aceh', 'vaksinasi', 'massal', 'tahap', 'kota', 'banda', 'aceh', 'sasar', 'tenaga', 'didik', 'lansia', 'pra', 'lansia']",1.0,1.0
+449,"['sedia', 'laku', 'lepas', 'vaksinasi', 'daftar', 'vaksinasi']",1.0,1.0
+450,"['benowo', 'pilar', 'laksana', 'giat', 'aman', 'pantau', 'vaksinasi', 'mem', 'wilayah', 'mem', 'benowo', 'surabaya']",1.0,1.0
+451,"['beri', 'vaksin', 'terima', 'dos', 'terima', 'dos', 'baki', 'vaksinasi', 'capai', 'imuniti', 'kelompok', 'st', 'nd', 'jangka', 'bilang', 'capai', 'imuniti', 'kelompok']",1.0,1.0
+452,"['sambut', 'hut', 'toba', 'kawal', 'vaksinasi', 'massal']",1.0,1.0
+453,"['check', 'out', 'great', 'kunjung', 'riau', 'ketua', 'tim', 'komisi', 'ix', 'dpr', 'ri', 'laksana', 'vaksinasi', 'riau']",1.0,1.0
+454,"['cegah', 'sebar', 'covid', 'kota', 'gelar', 'vaksinasi', 'massal', 'gratis']",1.0,1.0
+455,"['sempat', 'vaksinasi', 'mudah', 'akses', 'moga', 'kapasitas', 'kuota', 'vaksinasi', 'sing', 'wegah', 'rung', 'gelem', 'vaksin', 'rasah', 'ngojok', 'ngojoki', 'sing', 'sakjane', 'gelem']",1.0,1.0
+456,"['panitia', 'pilkades', 'purwakarta', 'serentak', 'jalan', 'vaksinasi', 'covid']",1.0,1.0
+457,"['vaksinasi', 'covid', 'agustus', 'harap', 'capai', 'herd', 'imunity', 'tinjau', 'laksana', 'vaksinasi', 'covid', 'stadion', 'bogor', 'stasiun', 'bogor', 'kota', 'bogor', 'jawa', 'barat', 'via']",1.0,1.0
+458,"['gaada', 'daftar', 'online', 'vaksinasi', 'rumah', 'rumah', 'gin', 'muncul', 'cluster']",0.0,1.0
+459,"['jaman', 'sumsel', 'komando', 'dukung', 'juta', 'vaksinasi', 'hari']",1.0,1.0
+460,"['hadir', 'vaksinasi', 'harap', 'optimal', 'kerja', 'insan', 'hulu', 'migas', 'depan', 'jalan', 'tugas', 'lapang', 'awas', 'giat', 'usaha', 'hulu', 'minyak', 'gas', 'bumi', 'capai', 'cita', 'cita', 'ri', 'wujud', 'jt']",1.0,1.0
+461,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jabar', 'sasar', 'vaksinasi', 'bogor', 'sebar', 'bogor']",1.0,1.0
+462,"['daftar', 'vaksinasi', 'jaki', 'data', 'ktp', 'vaksin', 'kartu', 'vaksinasi', 'alamat', 'beda']",0.0,0.0
+463,"['laku', 'vaksinasi', 'covid', 'pegawai', 'skk', 'migas', 'wakil', 'sumbagsel', 'wakil', 'kepala', 'wakil', 'skk', 'migas', 'sumbagsel', 'anggono', 'mahendrawan', 'kepala', 'departemen', 'humas', 'skk', 'migas', 'sumbagsel', 'andi', 'arie', 'ucap', 'terima', 'kasih']",1.0,1.0
+464,"['vaksinasi', 'nasional', 'capai', 'atus', 'populasi', 'negara', 'tau', 'vaksin', 'parlimen', 'wajar', 'buka', 'teknikal', 'selamat', 'sidang', 'biadap', 'cuba', 'tidak', 'titah', 'ydpa', 'rrm']",0.0,1.0
+465,"['stadion', 'kota', 'jawa', 'barat', 'lokasi', 'vaksinasi', 'covid', 'massal', 'landa', 'deras', 'serta', 'kencang', 'butir', 'sebab', 'tenda', 'vaksinasi', 'roboh']",0.0,1.0
+466,"['ahli', 'antibodi', 'bentuk', 'sunti', 'dosis', 'vaksin', 'covid']",1.0,1.0
+467,"['tdi', 'gbl', 'porak', 'poranda', 'ku', 'hhmmm', 'teu', 'narima', 'vaksinasi', 'kitu', 'sing', 'sarehat', 'deui', 'warga', 'kota', 'jaga', 'daya', 'tahan', 'tubuh', 'ayeuna', 'keur', 'panca', 'roba']",0.0,1.0
+468,"['tenda', 'vaksinasi', 'roboh', 'akibat', 'serta']",0.0,0.0
+469,"['tenda', 'vaksinasi', 'covid', 'massal', 'roboh', 'gelar', 'vaksinasi', 'judul', 'serbu', 'vaksinasi', 'gelar', 'pagi', 'giat', 'rencana', 'ikut', 'wilayah', 'raya']",0.0,1.0
+470,"['capai', 'target', 'ribu', 'vaksinasi', 'pemkot', 'tangerang', 'gandeng']",1.0,1.0
+471,"['vaksinasi', 'cepat', 'daerah', 'daerah', 'interaksi', 'masyarakat', 'cepat', 'interaksi', 'mobilitas', 'stasiun', 'bus', 'airport', 'labuh']",1.0,1.0
+472,"['urkes', 'probolinggo', 'kota', 'gerak', 'laku', 'vaksinasi']",1.0,1.0
+473,"['banyak', 'tarik', 'rem', 'lambat', 'ngegas', 'target', 'vaksinasi', 'lambat', 'jancuk']",0.0,0.0
+474,"['serta', 'bpjs', 'prioritas', 'program', 'vaksinasi', 'faskes', 'serta', 'cepat', 'sasar', 'serta', 'daftar', 'faskesnya', 'irit', 'biaya', 'vaksinasi', 'masal', 'lapang', 'timbul', 'cluster']",1.0,1.0
+475,"['mumpung', 'vaksinasi', 'gratis', 'manfaat', 'sempat', 'syarat', 'bawa', 'ktp']",1.0,1.0
+476,"['vaksinasi', 'lokasi', 'sintong', 'abadi', 'program']",1.0,1.0
+477,"['kalurahan', 'tirtohargo', 'laksana', 'giat', 'pantau', 'laksana', 'vaksinasi', 'covid', 'aula', 'kalurahan', 'tirtohargo']",1.0,1.0
+478,"['jenderal', 'sigit', 'menteri', 'kesehtan', 'budi', 'gunadi', 'sadikin', 'tinjau', 'vaksinasi', 'stadion', 'jawa', 'barat']",1.0,1.0
+479,"['cepat', 'vaksinasi', 'interaksi', 'bogor', 'biro', 'pers', 'media', 'informasi', 'sekretariat', 'website', 'youtube', 'sekretariat']",1.0,1.0
+480,"['serma', 'suripan', 'lem', 'sugiyanto', 'laksana', 'giat', 'aman', 'pantau', 'vaksinasi', 'lansia', 'tempat', 'aula', 'balai', 'lem', 'laksana', 'tugas', 'sehat', 'golong']",1.0,0.0
+481,"['vaksinasi', 'hari', 'bogor', 'capai', 'ribu']",1.0,1.0
+482,"['info', 'program', 'vaksinasi', 'turun', 'cluster', 'kantor', 'laksana']",1.0,0.0
+483,"['dukung', 'vaksinasi', 'nasional', 'juta', 'vaksin', 'covid']",1.0,1.0
+484,"['warga', 'dki', 'jakarta', 'usia', 'ikut', 'program', 'vaksinasi', 'covid', 'gratis', 'simak', 'lengkap']",1.0,1.0
+485,"['buanajaya', 'ubrug', 'bantargadung', 'sukabumi', 'giat', 'pam', 'vaksinasi', 'himbauan', 'prokes', 'laksana', 'vaksinasi', 'tim', 'medis', 'puskesma', 'warungkiara', 'sbb', 'daftar', 'vaksin', 'tunda']",1.0,0.0
+486,"['kapolres', 'badung', 'pantau', 'vaksinasi', 'covid', 'massal', 'abiansemal']",1.0,0.0
+487,"['laksana', 'sentra', 'vaksinasi', 'massal', 'upaya', 'penuh', 'target', 'juta', 'vaksinasi', 'kota', 'agustus']",1.0,1.0
+488,"['forum', 'koordinasi', 'pimpin', 'kota', 'forkopimko', 'jakarta', 'pusat', 'gelar', 'sentra', 'vaksinasi', 'massal', 'covid', 'massal', 'kawasan', 'blok', 'pasar', 'tanah', 'abang']",1.0,1.0
+489,"['anda', 'vaksin', 'kemas', 'bentuk', 'tablet', 'sachet', 'sebar', 'vaksinasi', 'cepat']",1.0,1.0
+490,"['kota', 'gelar', 'vaksinasi', 'massal']",1.0,1.0
+491,"['warungkiara', 'nandi', 'sukaharja', 'warungkiara', 'sukabumi', 'giat', 'pam', 'vaksinasi', 'himbauan', 'prokes', 'laksana', 'vaksinasi', 'tim', 'medis', 'puskesma', 'warungkiara', 'sbb', 'daftar', 'vaksin', 'tunda']",1.0,0.0
+492,"['selamat', 'baca', 'tingkat', 'cakup', 'program', 'vaksinasi', 'nasional', 'baharu', 'atur', 'laksana', 'vaksinasi', 'rangka', 'tanggulang', 'pandemi']",1.0,1.0
+493,"['itb', 'buka', 'vaksinasi', 'alumni', 'keluarga', 'syarat', 'lokasi']",1.0,1.0
+494,"['wali', 'kota', 'jakbar', 'dandim', 'tinjau', 'vaksinasi', 'rusun', 'angke', 'tambora']",1.0,1.0
+495,"['dosis', 'wali', 'kota', 'gibran', 'genjot', 'vaksinasi', 'driver', 'ojol', 'operasi', 'solo']",1.0,1.0
+496,"['tinjau', 'vaksinasi', 'massal', 'stadion', 'bogor']",1.0,1.0
+497,"['udh', 'colong', 'kontak', 'positif', 'pcr', 'apd', 'udh', 'cocok', 'uji', 'klinis', 'vaksinasi']",0.0,1.0
+498,"['warungkiara', 'nandi', 'ubrug', 'warungkiara', 'sukabumi', 'giat', 'pam', 'vaksinasi', 'himbauan', 'prokes', 'laksana', 'vaksinasi', 'tim', 'medis', 'puskesma', 'warungkiara', 'sbb', 'daftar', 'vaksin', 'tunda']",1.0,0.0
+499,"['pemkot', 'jakpus', 'kolaborasi', 'bareng', 'green', 'pramuka', 'gelar', 'vaksinasi', 'covid']",1.0,1.0
+500,"['pusat', 'izin', 'vaksinasi', 'warga', 'usia', 'bekas']",1.0,0.0
+501,"['vaksinasi', 'massal', 'lansia', 'laksana', 'cikarang', 'timur']",1.0,1.0
+502,"['susah', 'abis', 'vaksinasi', 'kepala', 'sakit', 'gin', 'ga', 'tidur', 'mimpi', 'buruk']",0.0,0.0
+503,"['vaksinasi', 'kaya', 'sporadis', 'gin', 'hari', 'selesai', 'pindah', 'program', 'minimal', 'ga', 'parebut', 'padedet']",0.0,1.0
+504,"['pasongsongan', 'laku', 'cepat', 'vaksinasi', 'covid']",1.0,1.0
+505,"['pantau', 'vaksinasi', 'disiplin', 'prokes', 'butuh', 'ut']",1.0,1.0
+506,"['warga', 'raya', 'serbu', 'stadion', 'gedebage', 'kota', 'ikut', 'vaksinasi', 'massal']",1.0,0.0
+507,"['edar', 'video', 'antre', 'vaksinasi']",0.0,1.0
+508,"['silah', 'rsud', 'sentra', 'layan', 'vaksinasi', 'dekat', 'bawa', 'ktp', 'dki', 'jakarta', 'isi', 'data', 'lokasi', 'vaksinasi', 'daftar', 'pilih', 'jadwal', 'vaksinasi', 'jaki']",1.0,1.0
+509,"['libat', 'sektor', 'jasa', 'uang', 'cepat', 'vaksinasi', 'covid']",1.0,1.0
+510,"['jakarta', 'tingkat', 'vaksinasi', 'tekan', 'sebar', 'corona']",1.0,1.0
+511,"['welcome', 'usaha', 'jakarta', 'kantor', 'vaksinasi']",1.0,1.0
+512,"['info', 'vaksinasi', 'gotong', 'royong', 'skema']",1.0,0.0
+513,"['harap', 'usaha', 'program', 'vaksin', 'gotong', 'royong', 'sumbang', 'vaksin', 'warga', 'karyawannya', 'cepat', 'cakup', 'vaksinasi', 'nasional']",1.0,1.0
+514,"['tenda', 'vaksinasi', 'massal', 'stadion', 'ambruk']",0.0,0.0
+515,"['pusat', 'vaksinasi']",1.0,1.0
+516,"['kabar', 'vaksinasi', 'msyarakat']",0.0,1.0
+517,"['dinkes', 'kalteng', 'vaksinasi', 'bentuk', 'ikhtiar', 'lawan', 'covid']",1.0,1.0
+518,"['cek', 'vaksinasi', 'menkes', 'pasti', 'tambah', 'dosis', 'optimal']",1.0,1.0
+519,"['gamau', 'sebenernya', 'vaksinasi', 'sinopharm', 'hubung', 'sakit', 'gak', 'dianjurin', 'thx', 'info']",0.0,0.0
+520,"['warga', 'kradinan', 'antusias', 'vaksinasi', 'covid']",1.0,1.0
+521,"['vaksinasi', 'tahap', 'rasa', 'ga', 'ga', 'sus', 'gel', 'ngantuk', 'laper', 'ga', 'ngantuk', 'laperan', 'kaya', 'ga', 'beda', 'serius', 'ketawa']",1.0,0.0
+522,"['wagub', 'tinjau', 'cepat', 'vaksinasi', 'kantor', 'kalteng']",1.0,1.0
+523,"['berita', 'baru', 'gandeng', 'dinkes', 'pkk', 'bitung', 'prakarsa', 'cepat', 'vaksinasi', 'covid']",1.0,1.0
+524,"['masyarakat', 'padat', 'kompleks', 'stadion', 'wib', 'lengkap', 'klik']",0.0,1.0
+525,"['barus', 'hendra', 'sinaga', 'monitor', 'vaksinasi', 'barus']",1.0,1.0
+526,"['malang', 'pasuk', 'pekan', 'tiga', 'laksana', 'vaksinasi', 'vaksin', 'astrazeneca']",1.0,0.0
+527,"['coba', 'cek']",1.0,0.0
+528,"['kunjung', 'kantor', 'kedung', 'waringin', 'aiptu', 'gianto', 'koordinasi', 'laksana', 'giat', 'vaksinasi', 'covid', 'warga', 'usia', 'atas']",1.0,0.0
+529,"['cepat', 'vaksinasi', 'daerah', 'interaksi']",1.0,1.0
+530,"['sapa', 'warga', 'vaksin', 'andrei', 'angouw', 'pantau', 'detail', 'proses', 'vaksinasi']",1.0,1.0
+531,"['tinjau', 'vaksinasi', 'center', 'andrei', 'angouw', 'sanksi', 'wali', 'kota', 'wakil', 'wali', 'kota', 'manado', 'andrei', 'angouw', 'richard', 'sualang', 'tinjau', 'jalan', 'vaksinasi', 'hebat', 'pemkot', 'manado', 'center']",1.0,1.0
+532,"['vaksinasi', 'bal', 'persen', 'tuju', 'mudik', 'kmarin', 'mutusin', 'ndak', 'mudik']",1.0,0.0
+533,"['sertu', 'sutardi', 'genengduwur', 'genengduwur', 'laksana', 'giat', 'aman', 'pantau', 'vaksinasi', 'lansia', 'tempat', 'aula', 'balai', 'genengduwur', 'laksana', 'tugas', 'sehat', 'golong']",1.0,0.0
+534,"['sasar', 'vaksin']",1.0,1.0
+535,"['diy', 'irjen', 'asep', 'suhendar', 'tinjau', 'laksana', 'vaksinasi', 'covid', 'pendopo', 'royal', 'ambarukmo', 'yogyakarta']",1.0,1.0
+536,"['cikarageman', 'aipda', 'ugi', 'handoko', 'laksana', 'aman', 'vaksinasi', 'lansia', 'kantor', 'cikarageman', 'setu']",1.0,1.0
+537,"['vaksinasi', 'never', 'idea']",0.0,1.0
+538,"['supriyanta', 'serda', 'matroni', 'sosialisasi', 'vaksinasi', 'covid', 'lansia', 'kp', 'bulak', 'bunut', 'karangsambung']",1.0,1.0
+539,"['vaksinasi', 'massal', 'dongkrak', 'gairah', 'masyarakat']",1.0,1.0
+540,"['ayo', 'vaksinasi', 'covid']",1.0,1.0
+541,"['nu', 'mpd', 'gelar', 'vaksinasi', 'gratis', 'rawan', 'mahasiswa']",1.0,1.0
+542,"['aspek', 'bayar', 'mrupakn', 'upaya', 'kemekes', 'selenggara', 'program', 'vaksinasi', 'nasional', 'prcepatan', 'laju', 'vaksinasi', 'capa', 'herd', 'immunity', 'perhati', 'butuh', 'vaksinasi', 'covid', 'indonesia']",1.0,0.0
+543,"['diperjualbelikan', 'atur', 'tangan', 'kipi', 'stlh', 'terima', 'vaksinasi', 'covid', 'butuh', 'obat', 'awat', 'faskes', 'sesuai', 'indikasi', 'medis', 'protokol', 'obat']",1.0,1.0
+544,"['izin', 'guna', 'jenis', 'vaksin', 'covid', 'program', 'vaksinasi', 'vaksinasi', 'gotong', 'royong', 'catat', 'vaksin', 'merek', 'sinopharm', 'skema', 'hibah', 'perintah', 'ribu', 'dosis']",1.0,1.0
+545,"['vaksin', 'tetap', 'vaksinasi', 'gr', 'sinopharm', 'moderna', 'cansino', 'vaksin', 'sinovac', 'pfizer', 'astrazeneca', 'novavax', 'vaksin', 'gotong', 'royong']",1.0,1.0
+546,"['tingkat', 'cakup', 'program', 'vaksinasi', 'nasional', 'baharu', 'atur', 'laksana', 'vaksinasi', 'rangka', 'tanggulang', 'pandemi', 'covid']",1.0,1.0
+547,"['mantau', 'vaksinasi', 'pake', 'pake', 'face', 'shield', 'sok', 'prokes', 'ko', 'gilir', 'kaya', 'gin', 'nyontohinnya', 'dasar', 'kasar']",0.0,1.0
+548,"['tim', 'medis', 'dd', 'terjun', 'latih', 'vaksinator', 'pemda', 'dki']",1.0,1.0
+549,"['vaksinasi', 'massal', 'tanah', 'abang', 'target', 'warga']",1.0,1.0
+550,"['provinsi', 'dki', 'jakarta', 'gelar', 'vaksinasi', 'warga', 'usia']",1.0,1.0
+551,"['warga', 'cengkareng', 'bentuk', 'apresiasi', 'karna', 'antusiasme', 'warga', 'buka', 'pos', 'vaksinasi', 'cengkareng', 'daftar', 'link', 'karna', 'terima', 'show']",1.0,1.0
+552,"['serka', 'rahmadi', 'wakil', 'danramil', 'tanon', 'hadir', 'giat', 'vaksinasi', 'covid', 'lansia', 'muspika', 'tanon', 'tempat', 'tanon', 'tanon']",1.0,0.0
+553,"['beda', 'vaksinasi', 'gotong', 'royong', 'vaksinasi', 'program']",1.0,0.0
+554,"['salah', 'vaksinasi', 'sebab', 'varian', 'covid']",0.0,1.0
+555,"['vaksinasi', 'covid', 'ri', 'dosis', 'sunti', 'download', 'aplikasi', 'tribunnews', 'berita', 'baru', 'dapat', 'android']",1.0,0.0
+556,"['vaksinasi', 'rata', 'ko', 'daerah', 'sya', 'perintah', 'peduli', 'kpda', 'rakyat']",0.0,1.0
+557,"['personil', 'palipi', 'laksana', 'monitoring', 'giat', 'vaksinasi', 'covid', 'janji', 'maria', 'sitio', 'tio']",1.0,1.0
+558,"['rebah', 'vaksinasi', 'ninu', 'ninu', 'gak', 'ngasih', 'parasetamol', 'kayak', 'beli', 'hhhh']",0.0,1.0
+559,"['vaksinasi', 'dikebutttttt', 'juta', 'hari', 'indonesia']",0.0,1.0
+560,"['usaha', 'tekan', 'angka', 'dki', 'vaksinasi', 'gin', 'gin']",0.0,1.0
+561,"['misal', 'vaksin', 'hibah', 'merknya', 'sprti', 'vaksinasi', 'goting', 'royong', 'vaksin', 'pakai', 'vaksinasi', 'prog', 'vaksinasi', 'prog', 'brarti', 'beli', 'vaksinasi', 'gr', 'vaksin', 'hibah', 'tanda']",1.0,1.0
+562,"['wali', 'kota', 'jayapura', 'benhur', 'tom', 'mano', 'masyarakat', 'antusias', 'ikut', 'vaksinasi']",1.0,0.0
+563,"['tahap', 'kota', 'solo', 'ribu', 'vaksin', 'masyarakat', 'usia']",1.0,1.0
+564,"['baru', 'tangan', 'jakarta', 'data', 'tes', 'pcr', 'antigen', 'vaksinasi', 'dki', 'jakarta', 'strategi', 'tes', 'lacak', 'isolasi', 'gencar', 'temu', 'banyak', 'positif', 'tular', 'virus']",1.0,1.0
+565,"['pelaskanaan', 'giat', 'operasi', 'manusia', 'rangka', 'bhakti', 'sehat', 'negeri', 'vaksinasi', 'covid', 'kantor', 'trida', 'sakti', 'tambun', 'selatan', 'bekas']",1.0,1.0
+566,"['nak', 'vaksinasi', 'malaysia', 'kot', 'sukarelawan', 'vaksin', 'minggu', 'penuh', 'cuti', 'depa', 'robot', 'cuti', 'fikir', 'penat', 'lelah']",0.0,1.0
+567,"['damping', 'vaksinasi', 'massal', 'stasiun', 'lapang', 'bola']",1.0,1.0
+568,"['deras', 'tenda', 'vaksinasi', 'roboh', 'kursi', 'sera']",0.0,0.0
+569,"['tinjau', 'bupati', 'ratus', 'warga', 'antusias', 'jalan', 'vaksinasi', 'covid']",1.0,1.0
+570,"['jubir', 'vaksinasi', 'indonesia', 'hibah', 'dosis', 'vaksin', 'sinopharm', 'dikrnkan', 'hibah', 'vaksin', 'hibah', 'vaksinasi', 'program']",1.0,1.0
+571,"['kayak', 'udh', 'vaksinasi', 'tahap', 'warga', 'usia', 'jakarta', 'surabaya', 'bal', 'daerah', 'gada', 'informasi']",1.0,0.0
+572,"['sambut', 'hut', 'tulungagung', 'gelar', 'vaksinasi', 'covid']",1.0,1.0
+573,"['korem', 'abw', 'fasilitas', 'layan', 'vaksinasi', 'interen', 'masyarakat']",1.0,1.0
+574,"['provinsi', 'jawa', 'barat', 'gelar', 'vaksinasi', 'massal', 'stadion', 'jawa', 'barat', 'menkes', 'kepala', 'bnpb', 'hadir', 'saksi', 'vaksinasi', 'massal', 'foto', 'kumpar']",1.0,1.0
+575,"['damping', 'vaksinasi', 'massal', 'stasiun', 'lapang', 'bola']",1.0,1.0
+576,"['harap', 'keras', 'cepat', 'program', 'vaksinasi', 'vaksinasi', 'target', 'bogor', 'capai', 'kebal', 'komunal', 'agustus']",1.0,1.0
+577,"['laksana', 'vaksinasi', 'covid', 'usia', 'aula', 'up', 'paud', 'dikmas', 'wilayah', 'kebon', 'jeruk']",1.0,1.0
+578,"['bincang', 'konferensi', 'video', 'wakil', 'rumah', 'sakit', 'ada', 'vaksinasi', 'permata', 'jonggol', 'emc', 'sentul', 'bina', 'husada', 'cimandala', 'citeureup', 'karadenan']",1.0,1.0
+579,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat', 'sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+580,"['ijin', 'usul', 'bagi', 'nutrisi', 'hasil', 'bumi', 'tani', 'nelayan', 'indonesia', 'gizi', 'sentra', 'vaksinasi', 'giat', 'makan', 'ikan']",1.0,1.0
+581,"['tips', 'adik', 'dokter', 'selesai', 'observasi', 'vaksinasi', 'az', 'minum', 'panadol']",1.0,1.0
+582,"['selamat', 'sore', 'vaksinasi', 'kerja', 'wilayah', 'dki', 'jakarta', 'surat', 'terang', 'daftar', 'link', 'daftar', 'terima', 'show', 'terimakasih']",1.0,1.0
+583,"['tentu', 'baru', 'laksana', 'vaksinasi', 'sesuai', 'sah', 'menkes', 'poin', 'utama', 'boleh', 'terima', 'vaksin', 'vaksinasi', 'gr', 'skema', 'hibah', 'bantu', 'gratis']",1.0,1.0
+584,"['bandel', 'ngeyel', 'ajar', 'case', 'madura', 'maaf', 'kutip', 'nyata', 'ceramah', 'agama', 'ngawur', 'takut', 'nakuti', 'ajar', 'sesat', 'hindar', 'test', 'vaksinasi', 'daerah', 'diem', 'sribu', 'basa']",0.0,0.0
+585,"['giat', 'sumbul', 'laksana', 'aman', 'vaksinasi', 'covid', 'poskesdes', 'perrik', 'mbue', 'pegagan', 'hilir', 'dairi']",1.0,1.0
+586,"['jun', 'libat', 'sukarelawan', 'politeknik', 'jeli', 'lantan', 'program', 'outreach', 'vaksinasi', 'covid', 'daerah', 'jeli', 'ayer', 'lanas']",1.0,1.0
+587,"['tolak', 'daerah', 'tinjau', 'vaksinasi']",1.0,0.0
+588,"['telukjambe', 'timur', 'kompol', 'oesman', 'iq', 'danramil', 'telukjambe', 'monitoring', 'giat', 'vaksinasi', 'warga', 'blok', 'perumnas', 'bumi', 'telukjambe', 'vaksinasi', 'terap', 'protokol', 'sehat']",1.0,1.0
+589,"['jam', 'vaksinasi', 'demam']",0.0,1.0
+590,"['giat', 'sumbul', 'laksana', 'aman', 'vaksinasi', 'covid', 'sumbul', 'pegagan', 'julu', 'sumbul', 'dairi']",1.0,1.0
+591,"['vaksin', 'covid', 'gratis', 'klinik', 'vaksinasi', 'diri', 'agnez', 'artha', 'graha', 'peduli']",1.0,1.0
+592,"['rangka', 'cepat', 'herd', 'immunity', 'sesuai', 'usul', 'dunia', 'usaha', 'kadin', 'selenggara', 'program', 'vaksinasi', 'gotong', 'royong']",1.0,1.0
+593,"['prajurit', 'yonif', 'mekanis', 'raider', 'bremoro', 'terima', 'suntik', 'vaksinasi', 'covid', 'tahap']",1.0,1.0
+594,"['vaksinasi', 'nasional', 'capai', 'liput', 'atus', 'populasi', 'negara', 'rakyat', 'parlimen', 'libat', 'rakyat', 'ahli', 'parlimen', 'vaksin', 'teknikal', 'selamat', 'sidang', 'parlimen']",0.0,1.0
+595,"['riau', 'papar', 'capai', 'vaksinasi', 'komisi', 'ix', 'dpr', 'ri']",1.0,1.0
+596,"['duduk', 'tempat', 'dar', 'risiko', 'vaksin', 'mati', 'hari', 'pulau']",0.0,0.0
+597,"['kodim', 'bangli', 'intensif', 'aman', 'laksana', 'gertak', 'vaksinasi', 'bangbang']",1.0,0.0
+598,"['lancar', 'jaring', 'internet', 'laksana', 'registrasi', 'skrining', 'giat', 'vaksinasi', 'kodim', 'natuna', 'bekerjasama', 'telkom', 'ranai', 'laksana', 'pasang', 'wifi', 'gedung', 'sri', 'serindit', 'yos', 'sudarso', 'batu', 'hitam', 'bungur', 'timur', 'natuna']",1.0,1.0
+599,[],1.0,1.0
+600,"['tinjau', 'vaksinasi', 'massal', 'stadion']",1.0,1.0
+601,"['lancong', 'vaksinasi', 'penuh', 'karantina']",1.0,1.0
+602,"['tinjau', 'vaksinasi', 'covid', 'rudi', 'ayo', 'sukses', 'laku', 'tertib']",1.0,1.0
+603,"['karyawan', 'favehotel', 'kuta', 'kartika', 'plaza', 'terima', 'vaksinasi', 'covid']",1.0,1.0
+604,"['yasin', 'target', 'juta', 'jiwa', 'vaksinasi', 'covid']",1.0,1.0
+605,"['coba', 'cari', 'info', 'ibadah', 'ormas', 'kang', 'vaksinasi']",1.0,1.0
+606,['ikhtiar'],1.0,1.0
+607,"['jalan', 'selidik', 'kelas', 'barangkali', 'analisis', 'data', 'statistik', 'utm', 'jasa', 'warga', 'sosial', 'media', 'selesai', 'vaksinasi', 'covid', 'isi', 'form', 'sebar', 'ye', 'jasa', 'kenang']",1.0,1.0
+608,"['vaksinasi', 'covid', 'warga', 'sasar', 'pulau', 'ribu', 'gencar']",1.0,1.0
+609,"['kuansing', 'apresiasi', 'rapp', 'usaha', 'kuansing', 'laku', 'vaksinasi', 'covid']",1.0,1.0
+610,"['harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+611,"['agnez', 'bangun', 'klinik', 'rumah', 'sakit', 'lapang', 'bantu', 'lancar', 'program', 'vaksinasi', 'covid', 'klinik', 'bangun', 'ag', 'peduli', 'diri', 'daerah', 'ancol', 'jakarta', 'utara']",1.0,1.0
+612,"['vaksinasi', 'covid', 'aceh', 'utara', 'gampong', 'seureuke', 'langkah', 'aceh', 'utara']",1.0,1.0
+613,"['indonesia', 'kejar', 'target', 'vaksinasi', 'amburadul']",0.0,0.0
+614,"['salut', 'sadar', 'warga', 'antusias', 'antri', 'ikut', 'vaksinasi', 'covid', 'massal', 'moga', 'klaster']",1.0,1.0
+615,"['kemaren', 'protes', 'vaksinasi', 'mall', 'ac', 'sentral']",0.0,0.0
+616,"['kasi', 'propam', 'metro', 'tangerang', 'kota', 'kompol', 'murodih', 'anggota', 'propam', 'laksana', 'vaksin', 'covod', 'klinik', 'metro', 'tamgerang', 'kota']",1.0,0.0
+617,"['salah', 'vaksinasi', 'sebab', 'varian', 'covid', 'lengkap']",0.0,1.0
+618,"['terjun', 'pantau', 'vaksin', 'sektor', 'transportasi', 'beliau', 'amat', 'frame', 'giat', 'vaksinasi', 'ponakan', 'kang', 'emil']",1.0,1.0
+619,"['vaksinasi', 'ga', 'surat', 'domisili', 'tapiii', 'priuk']",0.0,1.0
+620,"['monitoring', 'aman', 'vaksinasi', 'covid', 'paya', 'lombang', 'tebing', 'sergei']",1.0,1.0
+621,"['vaksinasi', 'patuh', 'protokol', 'sehat', 'hindar', 'virus', 'corona']",1.0,1.0
+622,"['benda', 'pam', 'kam', 'vaksinasi', 'massal', 'tangerang', 'benda', 'metro', 'tangerang', 'kota', 'laksana', 'aman', 'giat', 'vaksin', 'ada', 'titik', 'kantor', 'gor', 'benda', 'smpn', 'post', 'benda']",1.0,1.0
+623,"['edar', 'video', 'antre', 'vaksinasi']",0.0,1.0
+624,"['jenderal', 'sigit', 'menteri', 'sehat', 'ri', 'kepala', 'bnpb', 'letjen', 'ganip', 'warsito', 'tinjau', 'giat', 'vaksinasi', 'potret']",1.0,1.0
+625,"['tinjau', 'vaksinasi', 'massal', 'stadion', 'target', 'herd', 'immunity', 'bogor', 'capai', 'agustus']",1.0,1.0
+626,"['cari', 'vaksin', 'available', 'banyak', 'kuota', 'full', 'cari', 'mandiri', 'nunggu', 'gilir', 'kantor', 'coba', 'ktp', 'non', 'dki', 'sentra', 'vaksinasi', 'faskes', 'mana']",1.0,0.0
+627,"['vaksinasi', 'covid', 'warga', 'sasar', 'pulau', 'ribu', 'gencar', 'berita', 'jakarta']",1.0,0.0
+628,"['cr', 'website', 'camat', 'daftar', 'web']",1.0,1.0
+629,"['menkes', 'pasti', 'tambah', 'ribu', 'dosis', 'vaksin', 'covid', 'capai', 'target', 'baca', 'lengkap', 'klik']",1.0,1.0
+630,"['provinsi', 'jawa', 'barat', 'gelar', 'vaksinasi', 'massal', 'stadion', 'jawa', 'barat', 'target', 'ribu', 'warga', 'raya', 'ikut', 'vaksinasi', 'massal']",1.0,0.0
+631,"['nyanyi', 'agnez', 'diri', 'klinik', 'rumah', 'sakit', 'lapang', 'bantu', 'lancar', 'program', 'vaksinasi', 'covid', 'klinik', 'bangun', 'ag', 'peduli', 'diri', 'daerah', 'ancol', 'jakarta', 'utara']",1.0,1.0
+632,"['dukung', 'sukses', 'vaksinasi', 'barat', 'koramil', 'barat', 'aman', 'laksana', 'vaksinasi', 'bentuk', 'dukung', 'sukses', 'program', 'tanggulang', 'sebar', 'covid', 'pandemi', 'ekonomi', 'indonesia', 'kmbali', 'pulih']",1.0,1.0
+633,"['harap', 'program', 'juta', 'vaksinasi', 'covid']",1.0,1.0
+634,"['mpm', 'rent', 'vaksinasi', 'kerja', 'transportasi']",1.0,1.0
+635,"['sempat', 'bincang', 'konferensi', 'video', 'wakil', 'ada', 'vaksinasi', 'permata', 'jonggol', 'emc', 'sentul', 'bina', 'husada', 'cimandala', 'citeureup', 'karadenan']",1.0,1.0
+636,"['dasar', 'informasi', 'unggah', 'akun', 'instagram', 'giat', 'vaksinasi', 'stadion', 'kota', 'sorot', 'tugas', 'kewalahan', 'atur', 'antre', 'calon', 'terima', 'vaksin', 'patuh', 'protokol', 'sehat']",1.0,1.0
+637,"['vaksinasi', 'covid', 'cepat']",1.0,1.0
+638,"['yampun', 'target', 'vaksinasi', 'juta', 'hariiii', 'seindonesiaa', 'hari', 'daku', 'capek', 'mangat', 'je', 'ye']",0.0,1.0
+639,"['karyawan', 'vaksinasi', 'outlet', 'buka', 'jam', 'siang', 'food', 'korea', 'indonesia']",1.0,1.0
+640,"['jawa', 'barat', 'bupati', 'bogor', 'vaksinasi', 'ada', 'bogor', 'stadion', 'rumah', 'sakit', 'bogor']",1.0,1.0
+641,"['pagi', 'tinjau', 'vaksinasi', 'massal', 'stasiun', 'bogor', 'menghimbau', 'cepat', 'vaksinasi', 'dilakukab', 'interaksi', 'mobilitas', 'stasiun', 'labuh', 'indonesia', 'sehat']",1.0,1.0
+642,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat', 'sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+643,"['komen', 'cari', 'tau', 'vaksinasi', 'biar', 'liat', 'sok', 'pandai', 'oke', 'pandai']",0.0,1.0
+644,"['personil', 'tebing', 'koramil', 'puskesmas', 'tebing', 'syahbandar', 'paya', 'pasir', 'tebing', 'syahbandar', 'serdang', 'bedagai', 'monitoring', 'aman', 'vaksinasi', 'covid', 'tahap', 'gebyar', 'guru', 'masyarakat', 'tebing', 'syahbandar']",1.0,1.0
+645,"['pasti', 'sisa', 'dana', 'covid', 'laksana', 'prog', 'vaksinasi', 'segeramenyeluruh', 'pasti', 'laksana', 'prokes', 'dukung', 'penuh', 'logistik', 'butuh', 'perlkp', 'prokes', 'masy', 'bantu', 'butuh', 'asupan', 'nutrisi', 'masy', 'upaya', 'tingkat', 'imunitas']",1.0,1.0
+646,"['vaksinasi', 'stasiun', 'bogor', 'untuk', 'guna', 'rel', 'listrik', 'krl', 'laku', 'ekonomi', 'stasiun', 'masyarakat', 'vaksin', 'vaksin', 'astrazeneca']",1.0,1.0
+647,"['serentak', 'indramayu', 'gelar', 'vaksinasi']",1.0,1.0
+648,"['dosen', 'karyawan', 'institut', 'teknologi', 'dirgantara', 'adisutjipto', 'jalan', 'vaksinasi', 'covid']",1.0,1.0
+649,"['feed', 'instagram', 'kini', 'angkat', 'giat', 'tinjau', 'vaksinasi', 'socmed', 'temen', 'antusias', 'bagi', 'alam', 'vaksin', 'dapetinnya', 'kompak', 'bareng']",1.0,1.0
+650,"['vaksinasi', 'pusat', 'stadion', 'antri', 'ga', 'pkm', 'dekat', 'akses', 'mudah', 'transportnya', 'murah', 'antri', 'pecah']",0.0,1.0
+651,"['ragu', 'vaksinasi', 'covid', 'vaksin', 'astrazeneca', 'aman']",0.0,0.0
+652,"['sempat', 'bincang', 'konferensi', 'video', 'wakil', 'rumah', 'sakit', 'ada', 'vaksinasi']",1.0,1.0
+653,"['vaksin', 'covid', 'gratis', 'lokasi', 'vaksinasi', 'rumkitlap', 'agp', 'pasir', 'putih', 'ancol', 'sentra', 'vaksinasi', 'mal', 'artha', 'gading', 'syarat', 'ketentuanny']",1.0,1.0
+654,"['anggota', 'kodim', 'bangli', 'dukung', 'giat', 'vaksinasi', 'wilayah']",1.0,1.0
+655,"['banjar', 'laksana', 'vaksinasi', 'guru', 'lansia']",1.0,1.0
+656,"['anggota', 'sukses', 'vaksinasi', 'hari', 'momentum']",1.0,1.0
+657,"['tanggal', 'wib', 'selesai', 'pendopo', 'kalurahan', 'sitimulyo', 'personel', 'piyungan', 'laksana', 'aman', 'monitoring', 'vaksinasi', 'vaksinasi', 'untuk', 'anggota', 'linmas', 'kapanewon', 'piyungan', 'urus', 'ponpes', 'icbb']",1.0,0.0
+658,"['cepat', 'vaksinasi', 'pacu', 'lomba', 'hadir', 'varian', 'varian', 'covid', 'moga', 'capai', 'cepat', 'kebal', 'masyarakat', 'vaksin', 'aamiin']",1.0,1.0
+659,"['damping', 'inspeksi', 'cepat', 'vaksinasi', 'masal', 'stasiun', 'kota', 'bogor', 'stadion', 'bogor', 'stadion', 'jawa', 'barat', 'arah', 'vaksinasi', 'masal', 'stadion']",1.0,1.0
+660,"['upaya', 'dukung', 'program', 'tanggulang', 'pandemi', 'covid', 'kebal', 'tubuh', 'masyarakat', 'wbp', 'rumah', 'tahan', 'negara', 'rutan', 'kelas', 'cipinang', 'selenggara', 'vaksinasi', 'covid', 'warga', 'bina']",1.0,1.0
+661,"['tanggamus', 'laksana', 'vaksinasi', 'lansia', 'hari', 'momentum']",1.0,1.0
+662,"['jawa', 'barat', 'bupati', 'bogor', 'vaksinasi', 'ada', 'bogor']",1.0,1.0
+663,"['sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+664,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat']",1.0,1.0
+665,"['pemkot', 'tangerang', 'gandeng', 'gencar', 'vaksinasi', 'kota', 'tangerang']",1.0,1.0
+666,"['vaksinasi', 'lansia', 'maron', 'loano', 'ters', 'lanjut']",1.0,1.0
+667,"['vaksin', 'merah', 'putih', 'sunti', 'tiga', 'booster', 'vaksinasi']",1.0,1.0
+668,"['vaksin', 'siap', 'ktp', 'perhati', 'jaga', 'jarak', 'pakai']",1.0,1.0
+669,"['canang', 'ajar', 'tatap', 'muka', 'ptm', 'batas', 'beri', 'vaksinasi', 'guru', 'target', 'vaksinasi', 'covid', 'tenaga', 'didik', 'capai', 'target']",0.0,1.0
+670,"['vaksinasi', 'kebal', 'cegah', 'gejala', 'berat', 'infeksi', 'ga', 'patuh', 'lockdown', 'dana', 'batas', 'mustahil', 'ppkm', 'mikro', 'nasehat', 'science']",0.0,1.0
+671,"['ratus', 'difabel', 'terima', 'vaksinasi', 'covid', 'yogyakarta']",1.0,1.0
+672,"['tahniah', 'lancar', 'proses', 'vaksinasi', 'spice', 'nang', 'efisien', 'vaksin']",1.0,1.0
+673,"['ketua', 'jaman', 'sumsel', 'dukung', 'juta', 'vaksinasi']",1.0,1.0
+674,"['grab', 'fasilitas', 'akses', 'vaksinasi', 'sandang', 'disabilitas', 'diy']",1.0,1.0
+675,"['pantau', 'kembang', 'pandemi', 'dashboard', 'vaksinasi', 'saji', 'informasi', 'aktual', 'covid', 'indonesia']",1.0,1.0
+676,"['deras', 'serta', 'kencang', 'landa', 'kawasan', 'timur', 'kota', 'terjang', 'tenda', 'vaksinasi', 'massal', 'stadion']",0.0,1.0
+677,"['kenal', 'artis', 'internasional', 'peduli', 'agnez', 'covid', 'tanah', 'air', 'patut', 'acung', 'jempol', 'pandemi', 'agnez', 'diri', 'klinik', 'vaksinasi', 'gratis', 'masyarakat', 'rumah', 'sakit', 'lapang', 'rumkitlap', 'ancol', 'mal', 'artha', 'gading']",1.0,1.0
+678,"['bangga', 'banget', 'peduli', 'masyarakat', 'bangun', 'klinik', 'vaksinasi', 'covid', 'bagi', 'makan', 'gratis']",1.0,1.0
+679,"['enam', 'daerah', 'papua', 'henti', 'laksana', 'vaksinasi', 'covid']",0.0,0.0
+680,"['aduh', 'tenda', 'vaksinasi']",1.0,1.0
+681,"['moga', 'vaksinasi', 'massal', 'cepat', 'bentuk', 'herb', 'immunity']",1.0,1.0
+682,"['rawasari', 'jakarta', 'pusat', 'sentra', 'vaksinasi', 'cempaka', 'putih', 'apartement', 'green', 'pramuka']",1.0,0.0
+683,"['wakil', 'wali', 'kota', 'jakarta', 'pusat', 'irwandi', 'camat', 'cempaka', 'putih', 'lurah', 'rawasari', 'kepala', 'cempaka', 'putih', 'unjung', 'sentra', 'vaksinasi', 'dinamis', 'apartemen', 'green', 'pramuka']",1.0,0.0
+684,"['vaksinasi', 'gratis', 'panti', 'waluyo', 'sawah', 'rkz', 'malang', 'monggo', 'ayo', 'vaksin']",1.0,1.0
+685,"['wakil', 'wali', 'kota', 'yana', 'mulyana', 'didmpingi', 'kepala', 'elly', 'wasliah', 'monitoring', 'laksana', 'vaksinasi', 'covid', 'pegawai', 'retail', 'toko', 'swalayan', 'kota', 'kerja', 'aprindo']",1.0,1.0
+686,"['vaksinasi', 'masal', 'kapolres', 'ende', 'vaksin', 'sedia', 'vial', 'total', 'terima', 'vaksin']",1.0,1.0
+687,"['pesta', 'kembang', 'ada', 'selasa', 'malam', 'lokasi', 'negara', 'new', 'york', 'amerika', 'serikat', 'pesta', 'kembang', 'raya', 'capai', 'vaksinasi']",1.0,1.0
+688,"['cepat', 'vaksinasi', 'interaksi']",1.0,1.0
+689,"['jabat', 'kaya', 'gin', 'dpr', 'bingung', 'warga', 'ragu', 'ragu', 'vaksinasi', 'republik', 'hompimpah', 'vaksinasi', 'rabies', 'genting']",0.0,0.0
+690,"['tunda', 'sempat', 'vaksinasi', 'kabar', 'warga', 'usia', 'ktp', 'jakarta', 'non', 'jakarta', 'domisili', 'jakarta', 'pemprov', 'dki', 'jakarta', 'buka', 'peluang', 'vaksinasi', 'gratis']",1.0,1.0
+691,"['sandang', 'disabilitas', 'lansia', 'yogyakarta', 'vaksinasi', 'gor', 'uny']",1.0,1.0
+692,"['ayo', 'vaksinasi', 'covid', 'disiplin', 'protokol', 'sehat', 'cegah', 'sebar', 'covid']",1.0,1.0
+693,"['vaksin', 'takut', 'alergi', 'kambuh', 'vaksinasi']",0.0,0.0
+694,"['dukung', 'program', 'forkompimda', 'mamuju', 'gelar', 'vaksinasi', 'massal']",1.0,1.0
+695,"['lonjak', 'bor', 'rujuk', 'covid', 'jakarta', 'lonjak', 'level', 'persen', 'target', 'vaksinasi', 'dki', 'juta', 'agustus', 'rusun', 'nagrak', 'siap', 'isolasi']",0.0,1.0
+696,"['ngurusin', 'gamau', 'vaksinasi', 'mending', 'ngurusin', 'gak', 'bagi', 'liat', 'buka', 'rame', 'full', 'book']",0.0,1.0
+697,"['apa', 'varian', 'ga', 'anggap', 'enteng', 'solusi', 'vaksinasi', 'ppkm', 'stop', 'terbang', 'negeri', 'fokus', 'tangan', 'negeri', 'dhe']",0.0,1.0
+698,"['trendline', 'positif', 'growth', 'capai', 'target', 'harap', 'rkp', 'pa', 'rapbn', 'fondasi', 'pulih', 'ekonomi', 'kendali', 'covid', 'vaksinasi', 'rata', 'spending', 'better', 'sesuai', 'outcome', 'capai', 'ibas']",1.0,1.0
+699,"['info', 'vaksinasi', 'program']",1.0,0.0
+700,"['moga', 'mudah', 'vaksinasi', 'mama', 'nnt', 'aamiin']",1.0,1.0
+701,"['ktp', 'dki', 'layan', 'vaksinasi', 'covid', 'anak', 'budi', 'asih', 'dewi', 'sartika', 'vaksin', 'antri', 'total', 'gak', 'sampe', 'jam', 'observasi', 'mnt', 'pasca', 'vaksin', 'kelar']",1.0,1.0
+702,"['kamar', 'dagang', 'industri', 'indonesia', 'kadin', 'tutup', 'daftar', 'vaksinasi', 'gotong', 'royong', 'wakil', 'ketua', 'kadin', 'shinta', 'wijaya', 'sebut', 'demand', 'minta', 'stok', 'vaksin', 'program', 'tip']",0.0,1.0
+703,"['sembako', 'gratis', 'serta', 'vaksinasi', 'covid', 'sembako', 'gratis', 'serta', 'vaksinasi', 'covid', 'lmk', 'ancol', 'bagi', 'sembako', 'gratis', 'serta', 'vaksinasi', 'upaya', 'dorong', 'minat', 'warga', 'ikut', 'program', 'vaksin', 'covid']",1.0,1.0
+704,"['paspor', 'vaksin', 'jepang', 'harap', 'terbit']",1.0,1.0
+705,"['damping', 'tinjau', 'vaksinasi', 'massal', 'stasiun', 'stadion', 'tinjau', 'stan', 'daftar', 'periksa', 'sunti', 'gelar', 'telekonferensi', 'rumah', 'sakit']",1.0,0.0
+706,"['vaksinasi', 'massal', 'membludak', 'serta', 'cilegon', 'rela', 'antre', 'subuh', 'via']",0.0,1.0
+707,"['kembang', 'pandemi', 'negara', 'bagus', 'mayoritas', 'vaksinasi', 'hari', 'turun', 'lepas', 'rem', 'datang', 'negara', 'wadidaw', 'hancur', 'usaha', 'tangan', 'covid', 'negara']",0.0,0.0
+708,"['tampak', 'detik', 'detik', 'prosesi', 'vaksinasi', 'masyarakat', 'stadion', 'gedebage', 'kota', 'jakartakeras']",1.0,1.0
+709,"['masyarakat', 'hadir', 'jaga', 'jarak', 'pakai']",1.0,1.0
+710,"['babelan', 'puskes', 'babelan', 'laksana', 'giat', 'operasi', 'manusia', 'rangka', 'bhakti', 'sehat', 'negeri', 'vaksinasi', 'tahap', 'tenaga', 'didik', 'guru', 'babelan', 'rincian', 'sbb', 'hadir', 'vaksin', 'vaksin', 'alas', 'sehat']",1.0,1.0
+711,"['kemaren', 'gajadi', 'vaksin', 'kuota', 'batas', 'jaktim', 'kesel', 'pagi', 'jakut', 'jam', 'sampe', 'keluh', 'tangan', 'gel', 'gel', 'kaki', 'gel', 'moga', 'gaada', 'efek', 'samping', 'sampe', 'demam', 'amin']",0.0,0.0
+712,"['putus', 'rantai', 'covid', 'curug', 'pilar', 'curug', 'tim', 'sehat', 'bong', 'gelar', 'vaksinasi', 'massal', 'masyarakat', 'curug', 'bong', 'bong', 'curug', 'tangerang']",1.0,1.0
+713,"['siap', 'ptm', 'cilacap', 'kebut', 'vaksinasi', 'guru']",1.0,1.0
+714,"['sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+715,"['tinggal', 'vaksin', 'covid', 'lapor', 'jadi', 'pasca', 'vaksinasi']",0.0,1.0
+716,"['sumpah', 'gak', 'ngerti', 'bijak', 'vaksinasi', 'covid', 'random', 'stasiun', 'dkk', 'aneh', 'banget']",0.0,1.0
+717,"['tinjau', 'vaksinasi', 'massal', 'stadion', 'cibinong', 'bogor', 'bincang', 'konferensi', 'video', 'wakil', 'rumah', 'sakit', 'ada', 'vaksinasi', 'massal']",1.0,1.0
+718,"['indonesia', 'parah', 'ban', 'warganegaranya', 'susah', 'internasional', 'nggatau', 'lengkap', 'vaksinasi', 'macem', 'moga', 'moga', 'negara', 'tuju', 'chill', 'amrik', 'santuy', 'gatau', 'negara', 'eropa']",0.0,0.0
+719,"['spanyol', 'cabut', 'atur', 'pakai']",0.0,0.0
+720,"['cipinang', 'cempedak', 'aiptu', 'muslih', 'damping', 'team', 'cepat', 'vaksinasi', 'jatinegara', 'pimpin', 'wakapolsek', 'akp', 'christiandini', 'hardianti', 'anggota', 'laksana', 'giat', 'vaksinasi', 'masal', 'warga']",1.0,1.0
+721,"['program', 'outreach', 'vaksinasi', 'covid', 'gerak', 'pulau']",1.0,1.0
+722,"['berita', 'mati', 'pasca', 'vaksinasi', 'ga', 'ngaruh', 'sebab', 'mati', 'volunteer', 'uji', 'coba', 'vaksin', 'pas', 'sayang', 'ga', 'domisili']",1.0,1.0
+723,"['genjot', 'vaksinasi', 'negara', 'asia', 'tawar', 'hadiah', 'sapi', 'apartemen', 'via']",1.0,0.0
+724,"['keras', 'suara', 'koramil', 'rantau', 'pandan', 'sertu', 'gusdianto', 'menghimbau', 'ajak', 'warga', 'takut', 'ikut', 'vaksinasi', 'vaksin', 'aman', 'halal', 'tempat', 'pusat', 'jalo', 'muko', 'muko', 'bathin', 'vii', 'bungo']",1.0,1.0
+725,"['az', 'bener', 'cepat', 'az', 'jarak', 'beri', 'vaksin', 'vaksinasi', 'minum', 'susu', 'beruang', 'hari', 'istirahat', 'kondisi', 'tubuh', 'tekan', 'darah']",1.0,1.0
+726,"['politik', 'nalar', 'anti', 'sains', 'tunduk', 'regulasi', 'vaksinasi', 'travelling', 'musti', 'paspor', 'vaksin', 'diam', 'rumah', 'politik', 'vaksinasi', 'represif', 'dialektik', 'pilih', 'reflektik']",0.0,1.0
+727,"['harap', 'program', 'vaksinasi', 'juta', 'capai']",1.0,1.0
+728,"['vaksinasi', 'nusantara', 'cemerlang', 'mata', 'jabat']",1.0,0.0
+729,"['kaum', 'difabel', 'antar', 'jemput']",1.0,1.0
+730,"['warga', 'dki', 'jakarta', 'usia', 'sentra', 'vaksinasi', 'blok', 'tanah', 'abang', 'vaksinasi', 'covid', 'via']",1.0,1.0
+731,"['kanuna', 'laku', 'damping', 'laksana', 'vaksinasi', 'covid', 'bina']",1.0,1.0
+732,"['coba', 'cek', 'ini', 'depok', 'deket', 'kampus', 'beb']",1.0,0.0
+733,"['vaksinasi', 'massal', 'stadion', 'cibinong', 'bogor', 'via']",1.0,1.0
+734,"['prioritas', 'vaksinasi', 'covid', 'tumpang', 'krl']",1.0,1.0
+735,"['jakarta', 'ribet', 'bener', 'kaya', 'vaksinasi', 'bal', 'ga', 'pake', 'poto', 'poto']",0.0,1.0
+736,"['bumi', 'resources', 'minerals', 'brms', 'gelar', 'vaksinasi', 'gotong', 'royong', 'lindung', 'karyawan']",1.0,1.0
+737,"['langkap', 'cepat', 'cepat', 'program', 'vaksinasi']",1.0,1.0
+738,"['cepat', 'vaksinasi', 'stasiun', 'labuh']",1.0,1.0
+739,"['anies', 'baswedan', 'vaksinasi', 'juta', 'duduk', 'jakarta', 'cepat', 'capai', 'herd', 'immunity']",1.0,1.0
+740,"['potret', 'viral', 'pemuda', 'gendong', 'kakek', 'turun', 'bukit', 'vaksinasi', 'covid']",1.0,1.0
+741,"['bisaa', 'semarang', 'daftar', 'vaksinasi', 'sbnernya', 'nunggu', 'antri', 'tau', 'kim']",1.0,0.0
+742,"['program', 'vaksinasi', 'massal', 'cepat']",1.0,1.0
+743,"['peka', 'kondisi', 'sosial', 'agnez', 'ajak', 'vaksin', 'panutan', 'figur', 'publik']",1.0,1.0
+744,"['kumham', 'kalteng', 'hadir', 'rapat', 'koordinasi', 'cepat', 'laksana', 'vaksinasi', 'covid']",1.0,1.0
+745,"['langkah', 'cepat', 'laju', 'vaksinasi']",1.0,1.0
+746,"['sosialisasi', 'dapet', 'putar', 'vaksinasi', 'suda', 'duga', 'ditanyain', 'mantapppp']",1.0,1.0
+747,"['jakarta', 'vaksinasi']",1.0,1.0
+748,"['kedungwuni', 'timur', 'monitoring', 'laksana', 'vaksinasi', 'covid', 'asuh', 'santri', 'ponpes', 'nurul', 'huda']",1.0,1.0
+749,"['video', 'program', 'outreach', 'vaksinasi', 'mudah', 'duduk', 'dalam']",1.0,1.0
+750,"['tinjau', 'vaksinasi', 'massal', 'stasiun', 'bogor']",1.0,1.0
+751,"['aq', 'tim', 'matahati', 'freelance', 'manfaatin', 'vaksinasi', 'hasil', 'test', 'antigen', 'syarat', 'wajib', 'event', 'depan', 'nunjukin', 'kartu', 'sertifikat', 'vaksinasi', 'kerja', 'event', 'mending']",1.0,1.0
+752,"['tinjau', 'vaksinasi', 'massal', 'stadion']",1.0,1.0
+753,"['wkwowkwwkwkwk', 'vaksinasi', 'masyarakat', 'stadion', 'kota', 'gak', 'nonton', 'persib']",1.0,1.0
+754,"['kemaren', 'aneh', 'tekan', 'darah', 'screening', 'tensi', 'range', 'normal', 'pas', 'selesai', 'observasi', 'pasca', 'vaksinasi', 'ditukur']",0.0,1.0
+755,"['perhati', 'ken', 'aman', 'prioritas', 'laksana', 'vaksinasi', 'massal', 'massif']",1.0,1.0
+756,"['wahyudi', 'balai', 'riam', 'pantau', 'giat', 'vaksinasi', 'covid']",1.0,0.0
+757,"['vaksinasi', 'lantas', 'kebal', 'covid', 'lindung', 'tubuh', 'butuh', 'disiplin', 'terap', 'prokes', 'pakai', 'jaga', 'jarak', 'cuci', 'tangan', 'pakai', 'sabun', 'lengah', 'sehat']",0.0,1.0
+758,"['jenderal', 'sigit', 'menteri', 'kesehtan', 'budi', 'gunadi', 'sadikin', 'tinjau', 'vaksinasi', 'stadion', 'jawa', 'barat']",1.0,1.0
+759,"['kepala', 'badan', 'nasional', 'tanggulang', 'bencana', 'bnpb', 'letjen', 'ganip', 'warsito', 'tolak', 'jawa', 'barat', 'aktif', 'covid', 'alami', 'lonjak', 'siginifikan', 'pasca', 'libur', 'raya', 'idul', 'fitri', 'lengkap']",1.0,0.0
+760,"['kepala', 'negara', 'harap', 'keras', 'cepat', 'program', 'vaksinasi', 'vaksinasi', 'target', 'bogor', 'capai', 'kebal', 'komunal', 'agustus']",1.0,1.0
+761,"['warga', 'usia', 'vaksin', 'maksimal', 'bentuk', 'kebal', 'komunitas']",1.0,1.0
+762,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'bogor', 'jabar', 'sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+763,"['sagita', 'putar', 'giat', 'ambu', 'bupati', 'purwakarta', 'ambu', 'anne', 'ratna', 'mustika', 'pantau', 'pelakasanaan', 'vaksinasi', 'masal', 'forkopimda', 'tempat', 'gor', 'purnawarman', 'lengkap']",1.0,1.0
+764,"['pantau', 'jadwal', 'vaksinasi', 'link', 'scan', 'qr', 'code', 'gambar']",1.0,1.0
+765,"['tinjau', 'vaksinasi', 'masyarakat', 'stadion', 'cibinong', 'bogor', 'jawa', 'barat', 'sasar', 'vaksinasi', 'bogor', 'sebar']",1.0,1.0
+766,"['kota', 'semarang', 'buka', 'layan', 'sentra', 'vaksinasi', 'universitas', 'islam', 'negeri', 'uin', 'walisongo', 'poltekkes', 'semarang', 'layan', 'vaksinasi', 'prioritas', 'lansia', 'pra', 'lansia', 'layan', 'publik', 'vaksinasi']",1.0,1.0
+767,"['info', 'menteri', 'sehat', 'vaksinasi', 'lantas', 'kebal', 'covid', 'lindung', 'tubuh', 'butuh', 'disiplin', 'terap', 'prokes', 'pakai', 'jaga', 'jarak', 'cuci', 'tangan', 'pakai', 'sabun', 'lengah', 'sehat']",0.0,1.0
+768,"['sendangadi', 'aipda', 'edi', 'setiawan', 'pendopo', 'kalurahan', 'sendangadi', 'magelang', 'mlati', 'laksana', 'giat', 'sambang', 'monitoring', 'vaksinasi', 'covid', 'lansia', 'wilayah', 'kalurahan', 'sendangadi', 'mlati', 'serta', 'vaksin']",1.0,1.0
+769,"['bikin', 'bangga', 'agnez', 'diam', 'diam', 'bangun', 'klinik', 'vaksinasi', 'covid', 'gratis']",1.0,1.0
+770,"['dang', 'dukung', 'cepat', 'vaksinasi', 'lansia']",1.0,1.0
+771,"['dikaitkeun', 'vaksinasi', 'duhhh', 'warga', 'ig']",0.0,1.0
+772,"['tokoh', 'pemuda', 'kapuas', 'ajak', 'generasi', 'muda', 'sukses', 'cepat', 'vaksinasi']",1.0,1.0
+773,"['sore', 'menit', 'lokasi']",1.0,1.0
+774,"['positif', 'gila', 'ayo', 'jalan', 'protol', 'sehat', 'pola', 'makan', 'perhati']",0.0,1.0
+775,"['vaksin', 'tunggu', 'cari', 'cari', 'info', 'faskes', 'dekat', 'kait', 'jadwal', 'vaksinasi', 'daerah', 'vaksinasi', 'sasar', 'usia', 'layan', 'publik', 'lansia', 'cmiiw']",1.0,0.0
+776,"['ayo', 'vaksinasi', 'takut', 'siap', 'lancar', 'vaksin']",1.0,1.0
+777,"['pododadi', 'monitoring', 'laksana', 'vaksinasi', 'covid', 'tempat', 'balai', 'pododadi']",1.0,0.0
+778,"['grab', 'vaccine', 'center', 'yogyakarta', 'target', 'masyarakat', 'yogyakarta', 'sandang', 'disabilitas', 'vaksin', 'covid']",1.0,1.0
+779,"['rektor', 'umpri', 'apresiasi', 'vaksinasi', 'massal', 'pringsewu']",1.0,1.0
+780,"['bima', 'warga', 'prioritas', 'terima', 'vaksin', 'wilayah', 'suntik', 'vaksin', 'covid']",1.0,1.0
+781,"['', '', '', '', '', 'tahu', 'uk', 'negara', 'catat', 'vaksinasi', 'tinggi', 'dunia', 'tempoh', 'kini', 'tingkat', 'jangkit', 'virus', 'covid', 'baharu', 'lebih']",1.0,1.0
+782,"['pemkot', 'jakpus', 'gelar', 'layan', 'vaksinasi', 'blok', 'pasar', 'tanah', 'abang']",1.0,1.0
+783,"['tiga', 'layan', 'bus', 'keliling', 'vaksinasi', 'covid', 'antusias', 'masyarakat', 'vaksin', 'sekip', 'kadipiro', 'terap', 'prokes', 'ketat', 'baca']",1.0,1.0
+784,"['tim', 'kantor', 'vaksin', 'kerja', 'informal', 'rumah', 'anak', 'dewasa', 'vaksin', 'pegawai', 'istirahat', 'vaksinasi', 'gel', 'demam', 'mual', 'ingat', 'pola', 'makan', 'bener']",0.0,1.0
+785,"['program', 'sentra', 'vaksinasi', 'indonesia', 'bangkit', 'pra', 'lansia', 'minimal', 'usia', 'ktp', 'nasional', 'daftar', 'tua', 'program', 'sentra', 'vaksinasi', 'indonesia', 'bangkit', 'daftar']",1.0,0.0
+786,"['sehat', 'pandemi', 'ayo', 'vaksinasi', 'patuh', 'protokol', 'sehat']",1.0,1.0
+787,"['grab', 'luncur', 'pusat', 'vaksinasi', 'ramah', 'sandang', 'disabilitas', 'yogyakarta']",1.0,1.0
+788,"['cegah', 'sebar', 'covid', 'sentra', 'vaksinasi', 'kota', 'semarang', 'tambah', 'daftar', 'lokasi']",1.0,1.0
+789,"['neng', 'liat', 'animo', 'teman', 'teman', 'vaksin', 'info', 'sentra', 'vaksinasi', 'jakarta', 'bantu', 'biar', 'pandemi', 'cepat', 'reda', 'lupa', 'prokes', 'vaksin', 'obat', 'tameng', 'kuat']",1.0,1.0
+790,"['lonjak', 'covid', 'izin', 'vaksin', 'vaksinasi', 'mandiri']",0.0,0.0
+791,"['bahas', 'militer', 'bantu', 'vaksinasi', 'tenaga', 'medis', 'ga', 'lupa', 'prosedur']",1.0,1.0
